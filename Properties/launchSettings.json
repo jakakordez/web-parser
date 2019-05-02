@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "WebParser": {
+      "commandName": "Project",
+      "commandLineArgs": "\"../../../sites/twitter.com/Dad Jokes (@Dadsaysjokes)   Twitter.htm\" xpath"
+    }
+  }
+}
