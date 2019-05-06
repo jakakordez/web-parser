@@ -28,5 +28,6 @@ namespace WebParser.RoadRunner
 
         public abstract string ToString(int depth);
         public abstract bool Equal(Element e);
+        public abstract bool EqualRecursive(Element e);
     }
 }

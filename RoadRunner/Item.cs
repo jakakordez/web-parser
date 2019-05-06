@@ -9,6 +9,7 @@ namespace WebParser.RoadRunner
     class Item : Element
     {
         string tag;
+        string endTag;
         HtmlNode node;
         // TODO: change to set of elements
         //string attributes;
@@ -16,14 +17,16 @@ namespace WebParser.RoadRunner
         public Item(Element parent, HtmlNode node) : base(parent)
         {
             this.node = node;
-            tag = node.Name;
+            var reg = new Regex("(<[^<]*>)").Matches(node.OuterHtml);
+            tag = reg[0].Groups[1].Value.Trim();
+            if (node.ChildNodes.Count > 0)
+            {
+                endTag = reg[reg.Count - 1].Groups[1].Value.Trim();
+            }
 
             for (int i = 0; i < node.ChildNodes.Count; i++)
             {
                 var child = node.ChildNodes[i];
-                //Console.WriteLine(reg.Groups[1].Value.Trim());
-                //Console.WriteLine(i);
-                //Console.WriteLine(child.Name);
                 if (child.Name.Contains("text"))
                 {
                     string text = child.InnerText.Trim();
@@ -45,31 +48,59 @@ namespace WebParser.RoadRunner
             }
         }
 
-        public override bool Equal(Element e)
+        public override bool EqualRecursive(Element e)
         {
-            throw new NotImplementedException();
+            if (!Equal(e)) return false;
+            int ie = 0;
+            for (int i = 0; i < children.Count; i++)
+            {
+                if (children[i] is Optional)
+                {
+                    if (children[i].EqualRecursive(e.children[ie]))
+                        ie++;
+                    continue;
+                }
+                if (!children[i].EqualRecursive(e.children[ie]))
+                    return false;
+
+                ie++;
+
+                if (children[i] is Iterator)
+                {
+                    ie++;
+                    while (ie < e.children.Count && children[i].EqualRecursive(e.children[ie]))
+                        ie++;
+                    ie--;
+                }
+            }
+            return true;
         }
 
+        public override bool Equal(Element e)
+        {
+            Item el = e as Item;
+            return el != null && el.node.Name == node.Name;
+        }
 
         public override string ToString(int depth)
         {
-            var reg = new Regex("(<[^<]*>)").Matches(node.OuterHtml);
+            
             StringBuilder builder = new StringBuilder();
             builder.Append(AppendDepth(depth));
-            builder.Append(reg[0].Groups[1].Value);
+            builder.Append(tag);
             builder.Append("\n");
             for (int i = 0; i < children.Count; i++)
             {
                 builder.Append(children[i].ToString(depth + 1));
             }
-            if (node.EndNode != null)
+            if (endTag != null)
             {
                 builder.Append(AppendDepth(depth));
                 /*for (int i = 0; i < reg.Groups.Count; i++)
                 {
                     Console.WriteLine(i + ", " + reg.Groups[i].Value);
                 }*/
-                builder.Append(reg[reg.Count-1].Groups[1].Value);
+                builder.Append(endTag);
                 builder.Append("\n");
             }
 

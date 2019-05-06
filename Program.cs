@@ -6,7 +6,7 @@ namespace WebParser
 {
     class Program
     {
-        static void Main(string[] args)
+        /*static void Main(string[] args)
         {
             var filename = args[0];
             var mode = args[1];
@@ -15,7 +15,7 @@ namespace WebParser
             var json = JsonConvert.SerializeObject(obj, Formatting.Indented);
             Console.WriteLine(json);
             Console.Read();
-        }
+        }*/
 
         static object Parse(string filename, string mode)
         {
