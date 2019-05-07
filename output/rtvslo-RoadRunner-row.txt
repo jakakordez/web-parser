@@ -1,0 +1,1062 @@
+<div class="row">
+    <header class="article-header">
+        <div class="#text">
+            <h3 class="section-title animated-circles-onhover">
+                <svg version="1.1" class="heading-circles" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewbox="0 0 88 20" style="enable-background:new 0 0 88 20;" xml:space="preserve">
+                    <g class="gray">
+                        <circle cx="2.63" cy="10" r="1.6"/>
+                        <circle cx="15.9" cy="10" r="3.49"/>
+                        <circle cx="31.9" cy="10" r="5.44"/>
+                        <circle cx="53.9" cy="10" r="7.63"/>
+                    </g>
+                    <g class="color-overlay">
+                        <circle cx="2.63" cy="10" r="1.6"/>
+                        <circle cx="15.9" cy="10" r="3.49"/>
+                        <circle cx="31.9" cy="10" r="5.44"/>
+                        <circle cx="53.9" cy="10" r="7.63"/>
+                    </g>
+                    <circle class="color" cx="77.51" cy="10" r="9.46"/>
+                    <circle class="gray-overlay" cx="77.51" cy="10" r="9.46"/>
+                </svg>
+                <a href="#text">
+                    #text
+                </a>
+            </h3>
+            <a class="comments-icon ml-auto" data-comments-number="#text" href="#text"/>
+        </div>
+        <h1>
+            #text
+        </h1>
+        (
+            <div class="article-meta-mobile">
+                (
+                    #text
+                ) ?
+                (
+                    <div class="#text" ( style="transition-duration: 0ms; transform: translate3d(0px, 0px, 0px);") ? >
+                        (
+                            <figure class="photoswipe swiper-slide mobile-show-only swiper-slide-active" itemprop="associatedMedia" itemscope="" itemtype="http://schema.org/ImageObject" style="width: 480px; margin-right: 1px;">
+                                <a href="./Audi A6 50 TDI quattro_ nemir v premijskem razredu - RTVSLO.si_files/65552431_fp-xl.jpg" data-size="1200x800">
+                                    <img data-src="https://img.rtvslo.si/_up/upload/2018/12/21/65552431_fp-xl.jpg" class="lazy loaded" alt="" src="https://img.rtvslo.si/_up/upload/2018/12/21/65552431_fp-xl.jpg"/>
+                                </a>
+                                <figcaption itemprop="caption description">
+                                    <span class="icon-photo"/>
+                                    Audi A6 je avtomobil za direktorje, ki se mu na avtocesti spostljivo umikajo, kot bi slo za Pahorjev ali Sarcev avtomobil. Foto: David Savli
+                                </figcaption>
+                            </figure>
+                        ) ?
+                        (
+                            <strong>
+                                Miha Merljak
+                            </strong>
+                        ) ?
+                        (
+                            #text
+                        ) ?
+                    </div>
+                ) ?
+                (
+                    <div class="#text">
+                        (
+                            <span class="swiper-pagination-bullet swiper-pagination-bullet-active"/>
+                        ) ?
+                        (
+                            Ljubljana            -              MMC RTV SLO
+                        ) ?
+                    </div>
+                ) ?
+            </div>
+        ) +
+        (
+            <p class="lead">
+                To je novi audi A6. V razred najdrazjih in najbolj premijskih zrebcev je vnesel nemir, se preden je sploh zapeljal na parkirni prostor, rezerviran za izvrsnega direktorja.
+            </p>
+        ) ?
+        (
+            <figure class="photoswipe mobile-show-only" itemprop="associatedMedia" itemscope="" itemtype="http://schema.org/ImageObject">
+                <a href="https://img.rtvslo.si/_up/upload/2019/01/25/65560010_fp-xl.jpg" class="image-link image-heading image-container container-16-9" itemprop="contentUrl" data-size="1200x800" data-large="https://img.rtvslo.si/_up/upload/2019/01/25/65560010_fp-xl.jpg" title="" data-id="0">
+                    <img class="image-original loaded" src="https://img.rtvslo.si/_up/upload/2019/01/25/65560010_fp-xl.jpg"/>
+                </a>
+                <figcaption itemprop="caption description" class="single-line">
+                    <span class="icon-photo"/>
+                    XC40 se v mestu odlicno zlije z okolico. Foto: David Savli
+                </figcaption>
+            </figure>
+        ) ?
+        (
+            <p class="lead">
+                XC 40 je najmanjsi Volvov SUV, ki se oblikovno skoraj v celotni naslanja na oba vecja predhodnika. Ze samo s tem so mu vrata do denarnic tistih kupcev, ki iscejo izstopajoco, a hkrati visoko kultivirano in precisceno dizajnersko govorico, na pol odprta.
+            </p>
+        ) ?
+    </header>
+    <div class="article-meta">
+        <div class="author">
+            <div class="author-name">
+                Miha Merljak
+            </div>
+        </div>
+        <div class="publish-meta">
+            #text
+            <br/>
+            Ljubljana            -              MMC RTV SLO
+        </div>
+        <div class="share">
+            <#comment/>
+            <div class="share-icon facebook" onclick="#text"/>
+            <div class="share-icon twitter" onclick="#text"/>
+            <div class="share-icon email" onclick="#text"/>
+            <a class="comments-icon" data-comments-number="#text" href="#text"/>
+            <#comment/>
+        </div>
+        <figure class="c-figure-emphasis">
+            <h5 class="figure-title">
+                Poudarki
+            </h5>
+            <ul class="emphasis-list">
+                <li>
+                    #text
+                </li>
+                <li>
+                    #text
+                </li>
+                <li>
+                    #text
+                </li>
+            </ul>
+        </figure>
+    </div>
+    <div class="article-body">
+        <div class="article-header-media">
+            (
+                <figure class="photoswipe desk-show-only" itemprop="associatedMedia" itemscope="" itemtype="http://schema.org/ImageObject">
+                    <a href="./Audi A6 50 TDI quattro_ nemir v premijskem razredu - RTVSLO.si_files/65552431_fp-xl.jpg" class="image-link image-heading image-container container-16-9" itemprop="contentUrl" data-size="1200x800" data-large="https://img.rtvslo.si/_up/upload/2018/12/21/65552431_fp-xl.jpg" title="" data-id="0">
+                        <img class="image-original loaded" src="./Audi A6 50 TDI quattro_ nemir v premijskem razredu - RTVSLO.si_files/65552431_fp-xl.jpg"/>
+                        <img class="image-original loaded" src="https://img.rtvslo.si/_up/upload/2018/12/21/65552431_fp-xl.jpg"/>
+                    </a>
+                    <figcaption itemprop="caption description">
+                        <span class="icon-photo"/>
+                        Audi A6 je avtomobil za direktorje, ki se mu na avtocesti spostljivo umikajo, kot bi slo za Pahorjev ali Sarcev avtomobil. Foto: David Savli
+                    </figcaption>
+                </figure>
+            ) ?
+        </div>
+        <article class="article">
+            <figure class="#text" ( itemprop="associatedMedia") ?  ( itemscope="") ?  ( itemtype="http://schema.org/ImageObject") ? >
+                (
+                    <div class="advert-title size-300">
+                        Oglas
+                    </div>
+                ) ?
+                (
+                    <div class="iAdserver dynamic-advert-article-inside adloaded" data-iadserver-zone="32" id="ec9e9eec232958a90f3de826aadc83ce" style="text-align: center;">
+                        <script>
+                            _ipromNS('zone',32); console.log("zone=32");
+                        </script>
+                        <script type="text/javascript">
+                            iprom_ad_id='247200';
+iprom_FlashVersion=0;
+var _ipromNum = _ipromNum || 0;
+var _ipromZoneID = _ipromZoneID || 0;
+_ipromNum++;
+var _ipromNumAd = _ipromNumAd || [];
+_ipromNumAd[_ipromNum] = iprom_ad_id+"-"+_ipromZoneID;
+var iprom_AD_custom_settings=null;
+(function () {var s = document.createElement('script');s.src = "//adserver.iprom.net/adserver7/iLogger?z=32;t=js;sid=ziv_slog;ssid=avtomobilnost;m=rtvslo;cb="+(new Date().getTime())+";adid=247200;iact=ad_served;icat=;resx="+escape(screen.width)+";resy="+escape(screen.height);document.head.appendChild(s);})();(function () {var imga = document.createElement('img');imga.src = "//core.iprom.net/log/event/?time="+(new Date().getTime())+"&m=rtvslo&sid=ziv_slog&ssid=avtomobilnost&oadid=247200&z=32&ch=&kw=&sct=&resx="+escape(screen.width)+"&resy="+escape(screen.height)+"&iid=&e=ad_served&v=&c=&rdr=";imga.width=1;imga.height=1;imga.style.display="none";document.body.appendChild(imga);})();try {if (typeof(top._i_fbarray)=='undefined'){top._i_fbarray=[];}if (typeof(top._i_fbarray['z32'])=='undefined'){top._i_fbarray['z32']=[];}top._i_fbarray['z32'].push(247200);}catch(err) {if (typeof(_i_fbarray)=='undefined'){_i_fbarray=[];}if (typeof(_i_fbarray['z32'])=='undefined'){_i_fbarray['z32']=[];}_i_fbarray['z32'].push(247200);}_i_fbparam = {"sid":"ziv_slog","lid":"247200","m":"rtvslo","ssid":"avtomobilnost","z":"32"};
+document.write('<div class="ipromAP" rel="iAL1" data-zone="32" data-ad="247200">');
+    if (typeof(LazyLoader)!='undefined') {
+            var tmpAdArr = unescape("%3C!--%20(c)%202000-2019%20Gemius%20SA%20version%202.0%3A%20%2Frtvslo.si%2F300x250%2C%202019%20-%20KRKA%20-%20OUDR%20--%3E%0A%3Cscript%20language%3D%22javascript1.2%22%20type%3D%22text%2Fjavascript%22%3E%0A%2F%2F%3C!%5BCDATA%5B%0Adocument.write('%3Cscr'%2B'ipt%20src%3D%22%2F%2Fsigde.adocean.pl%2F_'%2B(new%20Date()).getTime()%2B'%2Fad.js%3Fid%3DJB9Log0XmBptKujCnlzKWEzAwJBm5yL0O8fz.TKdlpX.17%2Fnc%3D0%2Fgdpr%3D0%2Fgdpr_consent%3D%2Fredir%3D%22%20language%3D%22javascript%22%3E%3C%2Fscr'%2B'ipt%3E')%3B%0A%2F%2F%5D%5D%3E%0A%3C%2Fscript%3E").split('\n');
+
+            for (var _i=0; _i<tmpAdArr.length; _i++) {
+                if (_i>0&&tmpAdArr[_i].match(/<.script>/i)) {
+                    if (tmpAdArr[_i-1].match(/^\/\//i)) {
+                        document.write("\n"+tmpAdArr[_i]);
+                    } else {
+                        document.write(tmpAdArr[_i]);
+                    }
+                } else {
+                    if (_i==0) {
+                        document.write(tmpAdArr[_i]);
+                    } else {
+                        document.write("\n"+tmpAdArr[_i]);
+                    }
+                }
+            }
+} else {document.write(unescape("%3C!--%20(c)%202000-2019%20Gemius%20SA%20version%202.0%3A%20%2Frtvslo.si%2F300x250%2C%202019%20-%20KRKA%20-%20OUDR%20--%3E%0A%3Cscript%20language%3D%22javascript1.2%22%20type%3D%22text%2Fjavascript%22%3E%0A%2F%2F%3C!%5BCDATA%5B%0Adocument.write('%3Cscr'%2B'ipt%20src%3D%22%2F%2Fsigde.adocean.pl%2F_'%2B(new%20Date()).getTime()%2B'%2Fad.js%3Fid%3DJB9Log0XmBptKujCnlzKWEzAwJBm5yL0O8fz.TKdlpX.17%2Fnc%3D0%2Fgdpr%3D0%2Fgdpr_consent%3D%2Fredir%3D%22%20language%3D%22javascript%22%3E%3C%2Fscr'%2B'ipt%3E')%3B%0A%2F%2F%5D%5D%3E%0A%3C%2Fscript%3E"));
+}document.write("</div>");
+function iPromInsertScript(c,b){var d=document.createElement;HTMLDocument.prototype.createElement&&(document.createElement=HTMLDocument.prototype.createElement);var a=document.createElement("script");a.setAttribute("data-cfasync","false");a.defer=!0;a.async=!0;a.src=c;"function"==typeof b&&(a.onload=b);document.getElementsByTagName("head")[0].appendChild(a);document.createElement=d};
+iPromInsertScript("//a.ipromcloud.com/js/external.js?cb=38857",function(){ipromExternal(247200,32,1);});
+document.write('<div style="position:absolute; left: -1000px; top: -1000px;"><img src="https://adserver.iprom.net/adserver7/LogImpression?z=32;ad=247200;m=rtvslo;sid=ziv_slog;ssid=avtomobilnost;kw=;tm=1554297937;lcl=0" width=1 height=1></div>');function _iprom_logInView(e){var t=e.getAttribute("data-iadlogimp")||"";if(t){var n=document.createElement("img");n.src=unescape(t);n.width=1;n.height=1;n.style.opacity=0;if(document.body!=null){document.body.appendChild(n)}e.className+=" inView"}}function _iprom_isInView(e){var t=_iprom_scrollTop();var n=_iprom_clientHeight();var r=50;var i=e.offsetHeight;var s=Math.round(i*r/100);var o=0;var u=e;while(u!=null){o+=u.offsetTop;u=u.offsetParent}var a=o+s;if(a<t){return false}var f=t+n;if(a>f){return false}return true}function _iprom_clientHeight(){return _iprom_filterResults(window.innerHeight?window.innerHeight:0,document.documentElement?document.documentElement.clientHeight:0,document.body?document.body.clientHeight:0)}function _iprom_scrollTop(){return _iprom_filterResults(window.pageYOffset?window.pageYOffset:0,document.documentElement?document.documentElement.scrollTop:0,document.body?document.body.scrollTop:0)}function _iprom_filterResults(e,t,n){var r=e?e:0;if(t&&(!r||r>t))r=t;return n&&(!r||r>n)?n:r}if(!document.getElementsByClassName){document.getElementsByClassName=function(e){var t=[];var n=document.getElementsByTagName("*");var r=new RegExp("(^|\s)"+e+"(\s|1001 1001");for(var i=0;i<n.length;i++){if(r.test(n[i].className)){t.push(n[i])}}return t}}var iprom_inView_check=iprom_inView_check||function(){try{var e=document.getElementsByClassName("iprom_ad");for(var t=0;t<e.length;t++){if(e[t].className&&e[t].className.indexOf("inView")<0){var n=e[t].getAttribute("data-iadid")||0;if(n&&_iprom_isInView(e[t])){var r=e[t].getAttribute("data-inview-threshold")||0;if(r>0){var i=e[t];var s=function(){if(_iprom_isInView(i)&&i.className&&i.className.indexOf("inView")<0){_iprom_logInView(i)}};setTimeout(s,r*1e3,e[t])}else{e[t].className+=" inView";_iprom_logInView(e[t])}}}}}catch(o){}};if(typeof iprom_inView_init=="undefined"){iprom_inView_init=true;if(window.addEventListener){window.addEventListener("scroll",iprom_inView_check,false)}else if(window.attachEvent){window.attachEvent("onscroll",iprom_inView_check)}else{window["onscroll"]=iprom_inView_check}setTimeout("iprom_inView_check()",100);}
+                        </script>
+                        <div class="ipromAP" rel="iAL1" data-zone="32" data-ad="247200">
+                            <#comment/>
+                            <script language="javascript1.2" type="text/javascript">
+                                //<![CDATA[
+document.write('<scr'+'ipt src="//sigde.adocean.pl/_'+(new Date()).getTime()+'/ad.js?id=JB9Log0XmBptKujCnlzKWEzAwJBm5yL0O8fz.TKdlpX.17/nc=0/gdpr=0/gdpr_consent=/redir=" language="javascript"></scr'+'ipt>');
+//]]>
+                            </script>
+                            <script src="//sigde.adocean.pl/_1557264755929/ad.js?id=JB9Log0XmBptKujCnlzKWEzAwJBm5yL0O8fz.TKdlpX.17/nc=0/gdpr=0/gdpr_consent=/redir=" language="javascript">
+                            </script>
+                        </div>
+                        <div style="position:absolute; left: -1000px; top: -1000px;">
+                            <img src="https://adserver.iprom.net/adserver7/LogImpression?z=32;ad=247200;m=rtvslo;sid=ziv_slog;ssid=avtomobilnost;kw=;tm=1554297937;lcl=0" width="1" height="1"/>
+                        </div>
+                        <div class="ipromAP" rel="iAL1" data-zone="32" style="text-align: center;">
+                            <#comment/>
+                            <script language="javascript1.2" type="text/javascript">
+                                //<![CDATA[
+document.write('<scr'+'ipt src="//sigde.adocean.pl/_'+(new Date()).getTime()+'/ad.js?id=JB9Log0XmBptKujCnlzKWEzAwJBm5yL0O8fz.TKdlpX.17/nc=0/gdpr=0/gdpr_consent=/redir=" language="javascript"></scr'+'ipt>');
+//]]>
+                            </script>
+                            <script src="//sigde.adocean.pl/_1557264841627/ad.js?id=JB9Log0XmBptKujCnlzKWEzAwJBm5yL0O8fz.TKdlpX.17/nc=0/gdpr=0/gdpr_consent=/redir=" language="javascript">
+                            </script>
+                            <script src="./Audi A6 50 TDI quattro_ nemir v premijskem razredu - RTVSLO.si_files/ad.js" language="javascript">
+                            </script>
+                            <script type="text/javascript" src="https://si.hit.gemius.pl/gdejs/xgde.js">
+                            </script>
+                            <a target="_blank" href="https://si.hit.gemius.pl/lshitredir/id=zIE65jxep7g5Ys46AW8HG7e_Xfa8DC9A8AOKKI7SFEr.u7/fastid=cfngmhbnctpcdmftgrrpzlfvwnlc/stparam=kgdmmlphrw/roc=0/url=https://www.oduhljadorepa.com/?utm_source=rtvslo&amp;utm_medium=banner&amp;utm_campaign=oudr">
+                                <img src="https://sigde.adocean.pl/files/akaqknikucm/rfejpwhsmj/uberdnjrzu/Banner-300x250_3.jpg" width="300" height="250" border="0"/>
+                            </a>
+                            <script type="text/javascript" src="./Audi A6 50 TDI quattro_ nemir v premijskem razredu - RTVSLO.si_files/xgde.js">
+                            </script>
+                            <a target="_blank" href="https://si.hit.gemius.pl/lshitredir/id=zIE65jxep7g5Ys46AW8HG7e_Xfa8DC9A8AOKKI7SFEr.u7/fastid=cfngmhbnctpcdmftgrrpzlfvwnlc/stparam=kgdmmlphrw/roc=0/url=https://www.oduhljadorepa.com/?utm_source=rtvslo&amp;utm_medium=banner&amp;utm_campaign=oudr">
+                                <img src="./Audi A6 50 TDI quattro_ nemir v premijskem razredu - RTVSLO.si_files/Banner-300x250_3.jpg" width="300" height="250" border="0"/>
+                            </a>
+                        </div>
+                        <div style="position:absolute; left: -1000px; top: -1000px;">
+                            <img src="./Audi A6 50 TDI quattro_ nemir v premijskem razredu - RTVSLO.si_files/LogImpression" width="1" height="1"/>
+                        </div>
+                    </div>
+                ) ?
+                (
+                    <a href="./Volvo XC 40 D4 AWD momentum_ suvereno med najboljs?e v razredu - RTVSLO.si_files/65560010.jpg" itemprop="contentUrl" data-size="1200x800" data-large="https://img.rtvslo.si/_up/upload/2019/01/25/65560010.jpg" data-id="0">
+                        <img src="./Volvo XC 40 D4 AWD momentum_ suvereno med najboljs?e v razredu - RTVSLO.si_files/65560010.jpg" title="" alt=""/>
+                    </a>
+                ) ?
+                (
+                    <figcaption itemprop="caption description">
+                        <span class="icon-photo"/>
+                        XC40 se v mestu odlicno zlije z okolico. Foto: David Savli
+                    </figcaption>
+                ) ?
+            </figure>
+            (
+                <p class="Body"/>
+            ) ?
+            (
+                <p class="Body">
+                    Samo poglejte njegovo masko - to ogromno satovje z radarji na takem polozaju, da se ti na avtocesti tudi pri 120 km/h vsi spostljivo umikajo, saj so prepricani, da gre za Pahorjev ali Sarcev avto. Seveda, novi A6 lahko cesto in promet skenira s kar petimi radarji, petimi kamerami, infrardeco kamero za nocni vid, dvanajstimi ultrazvocnimi senzorji in laserskim citalnikom - lidarjem. V glavnem vojaska tehnologija v sluzbi varnosti za fante, ki smo radi gledali Top Gun, Bonda in druge mozakarja s finimi igracami.
+                </p>
+            ) ?
+            (
+                <p class="Body">
+                    <strong>
+                        Novo poglavje
+                        <br/>
+                    </strong>
+                    Vozniski delovni prostor je novo poglavje digitalne dobe, z dvema ogromnima zaslonoma, ki tako kot naprednejsi telefoni dregnejo blazinice vasih prstov, kot se sprehajate po steklu. A se bolj se nam zdi pomembno, da so osnovna stikala tam, kjer jih pricakujete. Najprej so torej zagotovili enostavno osnovo, tisti bolj "advanced" vozniki pa si lahko nato vse skupaj se veliko bolj prilagodijo. Velik korak naprej pri kabinskem udobju zaznavajo tudi na zadnji klopi, tam je prostora v vseh smereh precej vec.
+                </p>
+            ) ?
+            (
+                <p class="Body">
+                    Ce vam pogled na Audijev spisek dodatne opreme ne odvzame volje do zivljenja, potem vsekakor toplo priporocamo nakup zracnega vzmetenja, saj dobi z njim A6 vec razlicnih in voznisko zelo uporabnih karakterjev.
+                </p>
+            ) ?
+            (
+                <p class="Body">
+                    Enako velja za seksi luci z inteligentno matricno osvetlitvijo, pa za sportno podvozje in vsekakor za stirikolesno krmiljenje. S tem postane A6 med ovinki v obcutku na volanu se veliko krajsi in bolj agilen. Vse nasteto smo preskusali v druzbi agregata 50 TDI, ki je v resnici klasicni trilitrski dizel, podkrepljen z elektromotorjem. Ja, ta audi je mehki hibrid z izjemnim navorom in dovolj moci kadar koli in kjer koli. Si pa mislimo, da bo najvecji del trga zadovoljil ze ucinkovit dvolitrski mehki hibrid z mocjo 150 kilovatov.
+                </p>
+            ) ?
+            (
+                <p>
+                    <iframe src="./Audi A6 50 TDI quattro_ nemir v premijskem razredu - RTVSLO.si_files/LCypVFeHy_c.html" width="100%" height="350" frameborder="0" allowfullscreen="" border="0"/>
+                </p>
+            ) ?
+            (
+                <p>
+                    <strong>
+                        Kljucni tehnicni podatki:
+                    </strong>
+                </p>
+            ) ?
+            (
+                <p>
+                    - na testu Audi A6 50 TDI quattro tiptronic
+                </p>
+            ) ?
+            (
+                <p>
+                    <strong>
+                        Mere:
+                    </strong>
+                    <br/>
+                    - dolzina: 4,9 m
+                    <br/>
+                    - medosna razdalja: 2,9 m
+                    <br/>
+                    - obracalni krog: 12,1 m
+                    <br/>
+                    - prtljaznik: 530 l
+                    <br/>
+                    - masa: 1.900 kg
+                </p>
+            ) ?
+            (
+                <p>
+                    <strong>
+                        Pogon:
+                    </strong>
+                    <br/>
+                    - trilitrski sestvaljni dizelski motor
+                    <br/>
+                    - moc: 210 kW
+                    <br/>
+                    - navor: 620 Nm
+                    <br/>
+                    - 8-stopenjski samodejni menjalnik
+                    <br/>
+                    - pogon na vsa stiri kolesa
+                    <br/>
+                    - pnevmatike: 225/60 R17
+                    <br/>
+                    - poraba: 6,6 l/100 km = 8,9 EUR/100 km
+                    <br/>
+                    - posoda za gorivo: 73 l
+                    <br/>
+                    - doseg: 1.106 km
+                    <br/>
+                    - izpusti CO
+                    <sub>
+                        2
+                    </sub>
+                    : 147 g/km
+                </p>
+            ) ?
+            (
+                <p>
+                    <strong>
+                        Stroski pri 15.000 km in 5-letni uporabi:
+                    </strong>
+                    <br/>
+                    - nakupna cena: 69.080 EUR
+                    <br/>
+                    - stroski financnega lizinga: 4.463 EUR/5 let
+                    <br/>
+                    - stroski registracije: 10.829 EUR/5 let
+                    <br/>
+                    - stroski vzdrzevanja: 1.926 EUR/5 let
+                    <br/>
+                    - stroski goriva: 6.702 EUR/75.000 km
+                    <br/>
+                    - strosek 1 kompleta pnevmatik: 716 EUR
+                    <br/>
+                    - vrednosti po 5 letih po Eurotaxu: 33.964 EUR
+                </p>
+            ) ?
+            (
+                <p>
+                    - stroski skupaj: 1.001 EUR/mesec
+                </p>
+            ) ?
+            (
+                <p/>
+            ) ?
+            (
+                <div class="gallery">
+                    <div class="swiper-container swiper-footer-gallery swiper-container-horizontal swiper-container-wp8-horizontal">
+                        <div class="swiper-wrapper" style="transform: translate3d(-6734px, 0px, 0px); transition-duration: 0ms;">
+                            <figure class="photoswipe swiper-slide" itemprop="associatedMedia" itemscope="" itemtype="http://schema.org/ImageObject" style="width: 480px; margin-right: 1px;">
+                                <a href="https://img.rtvslo.si/_up/upload/2018/12/21/65552433.jpg" data-size="1200x800" data-id="1">
+                                    <img data-src="https://img.rtvslo.si/_up/upload/2018/12/21/65552433.jpg" class="lazy loaded" alt="" src="https://img.rtvslo.si/_up/upload/2018/12/21/65552433.jpg"/>
+                                </a>
+                                <figcaption itemprop="caption description">
+                                    MMC RTV SLO
+                                </figcaption>
+                            </figure>
+                            <figure class="photoswipe swiper-slide" itemprop="associatedMedia" itemscope="" itemtype="http://schema.org/ImageObject" style="width: 480px; margin-right: 1px;">
+                                <a href="./Audi A6 50 TDI quattro_ nemir v premijskem razredu - RTVSLO.si_files/65552432.jpg" data-size="1200x800" data-id="2">
+                                    <img data-src="https://img.rtvslo.si/_up/upload/2018/12/21/65552432.jpg" class="lazy loaded" alt="" src="https://img.rtvslo.si/_up/upload/2018/12/21/65552432.jpg"/>
+                                </a>
+                                <figcaption itemprop="caption description">
+                                    MMC RTV SLO
+                                </figcaption>
+                            </figure>
+                            <figure class="photoswipe swiper-slide" itemprop="associatedMedia" itemscope="" itemtype="http://schema.org/ImageObject" style="width: 480px; margin-right: 1px;">
+                                <a href="./Audi A6 50 TDI quattro_ nemir v premijskem razredu - RTVSLO.si_files/65552435.jpg" data-size="1200x800" data-id="3">
+                                    <img data-src="https://img.rtvslo.si/_up/upload/2018/12/21/65552435.jpg" class="lazy loaded" alt="" src="https://img.rtvslo.si/_up/upload/2018/12/21/65552435.jpg"/>
+                                </a>
+                                <figcaption itemprop="caption description">
+                                    MMC RTV SLO
+                                </figcaption>
+                            </figure>
+                            <figure class="photoswipe swiper-slide" itemprop="associatedMedia" itemscope="" itemtype="http://schema.org/ImageObject" style="width: 480px; margin-right: 1px;">
+                                <a href="./Audi A6 50 TDI quattro_ nemir v premijskem razredu - RTVSLO.si_files/65552436.jpg" data-size="1200x800" data-id="4">
+                                    <img data-src="https://img.rtvslo.si/_up/upload/2018/12/21/65552436.jpg" class="lazy loaded" alt="" src="https://img.rtvslo.si/_up/upload/2018/12/21/65552436.jpg"/>
+                                </a>
+                                <figcaption itemprop="caption description">
+                                    MMC RTV SLO
+                                </figcaption>
+                            </figure>
+                            <figure class="photoswipe swiper-slide" itemprop="associatedMedia" itemscope="" itemtype="http://schema.org/ImageObject" style="width: 480px; margin-right: 1px;">
+                                <a href="./Audi A6 50 TDI quattro_ nemir v premijskem razredu - RTVSLO.si_files/65552438.jpg" data-size="1200x800" data-id="5">
+                                    <img data-src="https://img.rtvslo.si/_up/upload/2018/12/21/65552438.jpg" class="lazy loaded" alt="" src="https://img.rtvslo.si/_up/upload/2018/12/21/65552438.jpg"/>
+                                </a>
+                                <figcaption itemprop="caption description">
+                                    MMC RTV SLO
+                                </figcaption>
+                            </figure>
+                            <figure class="photoswipe swiper-slide" itemprop="associatedMedia" itemscope="" itemtype="http://schema.org/ImageObject" style="width: 480px; margin-right: 1px;">
+                                <a href="https://img.rtvslo.si/_up/upload/2018/12/21/65552437.jpg" data-size="1200x800" data-id="6">
+                                    <img data-src="https://img.rtvslo.si/_up/upload/2018/12/21/65552437.jpg" class="lazy loaded" alt="" src="https://img.rtvslo.si/_up/upload/2018/12/21/65552437.jpg"/>
+                                </a>
+                                <figcaption itemprop="caption description">
+                                    MMC RTV SLO
+                                </figcaption>
+                            </figure>
+                            <figure class="photoswipe swiper-slide" itemprop="associatedMedia" itemscope="" itemtype="http://schema.org/ImageObject" style="width: 480px; margin-right: 1px;">
+                                <a href="https://img.rtvslo.si/_up/upload/2018/12/21/65552441.jpg" data-size="1200x800" data-id="7">
+                                    <img data-src="https://img.rtvslo.si/_up/upload/2018/12/21/65552441.jpg" class="lazy loaded" alt="" src="https://img.rtvslo.si/_up/upload/2018/12/21/65552441.jpg"/>
+                                </a>
+                                <figcaption itemprop="caption description">
+                                    V notranjosti kraljujejo zasloni, prek katerih je mogoce upravljati prakticno vse funkcije avtomobila. Foto: David Savli
+                                </figcaption>
+                            </figure>
+                            <figure class="photoswipe swiper-slide" itemprop="associatedMedia" itemscope="" itemtype="http://schema.org/ImageObject" style="width: 480px; margin-right: 1px;">
+                                <a href="https://img.rtvslo.si/_up/upload/2018/12/21/65552442.jpg" data-size="1200x800" data-id="8">
+                                    <img data-src="https://img.rtvslo.si/_up/upload/2018/12/21/65552442.jpg" class="lazy loaded" alt="" src="https://img.rtvslo.si/_up/upload/2018/12/21/65552442.jpg"/>
+                                </a>
+                                <figcaption itemprop="caption description">
+                                    MMC RTV SLO
+                                </figcaption>
+                            </figure>
+                            <figure class="photoswipe swiper-slide" itemprop="associatedMedia" itemscope="" itemtype="http://schema.org/ImageObject" style="width: 480px; margin-right: 1px;">
+                                <a href="https://img.rtvslo.si/_up/upload/2018/12/21/65552445.jpg" data-size="1200x800" data-id="9">
+                                    <img data-src="https://img.rtvslo.si/_up/upload/2018/12/21/65552445.jpg" class="lazy loaded" alt="" src="https://img.rtvslo.si/_up/upload/2018/12/21/65552445.jpg"/>
+                                </a>
+                                <figcaption itemprop="caption description">
+                                    MMC RTV SLO
+                                </figcaption>
+                            </figure>
+                            <figure class="photoswipe swiper-slide" itemprop="associatedMedia" itemscope="" itemtype="http://schema.org/ImageObject" style="width: 480px; margin-right: 1px;">
+                                <a href="https://img.rtvslo.si/_up/upload/2018/12/21/65552446.jpg" data-size="1200x800" data-id="10">
+                                    <img data-src="https://img.rtvslo.si/_up/upload/2018/12/21/65552446.jpg" class="lazy loaded" alt="" src="https://img.rtvslo.si/_up/upload/2018/12/21/65552446.jpg"/>
+                                </a>
+                                <figcaption itemprop="caption description">
+                                    MMC RTV SLO
+                                </figcaption>
+                            </figure>
+                            <figure class="photoswipe swiper-slide" itemprop="associatedMedia" itemscope="" itemtype="http://schema.org/ImageObject" style="width: 480px; margin-right: 1px;">
+                                <a href="https://img.rtvslo.si/_up/upload/2018/12/21/65552447.jpg" data-size="1200x800" data-id="11">
+                                    <img data-src="https://img.rtvslo.si/_up/upload/2018/12/21/65552447.jpg" class="lazy loaded" alt="" src="https://img.rtvslo.si/_up/upload/2018/12/21/65552447.jpg"/>
+                                </a>
+                                <figcaption itemprop="caption description">
+                                    MMC RTV SLO
+                                </figcaption>
+                            </figure>
+                            <figure class="photoswipe swiper-slide" itemprop="associatedMedia" itemscope="" itemtype="http://schema.org/ImageObject" style="width: 480px; margin-right: 1px;">
+                                <a href="https://img.rtvslo.si/_up/upload/2018/12/21/65552449.jpg" data-size="1200x800" data-id="12">
+                                    <img data-src="https://img.rtvslo.si/_up/upload/2018/12/21/65552449.jpg" class="lazy loaded" alt="" src="https://img.rtvslo.si/_up/upload/2018/12/21/65552449.jpg"/>
+                                </a>
+                                <figcaption itemprop="caption description">
+                                    MMC RTV SLO
+                                </figcaption>
+                            </figure>
+                            <figure class="photoswipe swiper-slide" itemprop="associatedMedia" itemscope="" itemtype="http://schema.org/ImageObject" style="width: 480px; margin-right: 1px;">
+                                <a href="https://img.rtvslo.si/_up/upload/2018/12/21/65552448.jpg" data-size="1200x800" data-id="13">
+                                    <img data-src="https://img.rtvslo.si/_up/upload/2018/12/21/65552448.jpg" class="lazy loaded" alt="" src="https://img.rtvslo.si/_up/upload/2018/12/21/65552448.jpg"/>
+                                </a>
+                                <figcaption itemprop="caption description">
+                                    Med doplacili priporocamo zracno vzmetenje in stirikolesno krmiljenje. Foto: David Savli
+                                </figcaption>
+                            </figure>
+                            <figure class="photoswipe swiper-slide swiper-slide-prev" itemprop="associatedMedia" itemscope="" itemtype="http://schema.org/ImageObject" style="width: 480px; margin-right: 1px;">
+                                <a href="https://img.rtvslo.si/_up/upload/2018/12/21/65552450.jpg" data-size="1200x800" data-id="14">
+                                    <img data-src="https://img.rtvslo.si/_up/upload/2018/12/21/65552450.jpg" class="lazy loaded" alt="" src="https://img.rtvslo.si/_up/upload/2018/12/21/65552450.jpg"/>
+                                </a>
+                                <figcaption itemprop="caption description">
+                                    MMC RTV SLO
+                                </figcaption>
+                            </figure>
+                            <figure class="photoswipe swiper-slide swiper-slide-active" itemprop="associatedMedia" itemscope="" itemtype="http://schema.org/ImageObject" style="width: 480px; margin-right: 1px;">
+                                <a href="https://img.rtvslo.si/_up/upload/2018/12/21/65552443.jpg" data-size="1200x800" data-id="15">
+                                    <img data-src="https://img.rtvslo.si/_up/upload/2018/12/21/65552443.jpg" class="lazy loaded" alt="" src="https://img.rtvslo.si/_up/upload/2018/12/21/65552443.jpg"/>
+                                </a>
+                                <figcaption itemprop="caption description">
+                                    MMC RTV SLO
+                                </figcaption>
+                            </figure>
+                            <figure class="photoswipe swiper-slide swiper-slide-next" itemprop="associatedMedia" itemscope="" itemtype="http://schema.org/ImageObject" style="width: 480px; margin-right: 1px;">
+                                <a href="https://img.rtvslo.si/_up/upload/2018/12/21/65552444.jpg" data-size="1200x800" data-id="16">
+                                    <img data-src="https://img.rtvslo.si/_up/upload/2018/12/21/65552444.jpg" class="lazy loaded" alt="" src="https://img.rtvslo.si/_up/upload/2018/12/21/65552444.jpg"/>
+                                </a>
+                                <figcaption itemprop="caption description">
+                                    MMC RTV SLO
+                                </figcaption>
+                            </figure>
+                            <figure class="photoswipe swiper-slide" itemprop="associatedMedia" itemscope="" itemtype="http://schema.org/ImageObject" style="width: 480px; margin-right: 1px;">
+                                <a href="https://img.rtvslo.si/_up/upload/2018/12/21/65552451.jpg" data-size="1200x800" data-id="17">
+                                    <img data-src="https://img.rtvslo.si/_up/upload/2018/12/21/65552451.jpg" class="lazy loaded" alt="" src="https://img.rtvslo.si/_up/upload/2018/12/21/65552451.jpg"/>
+                                </a>
+                                <figcaption itemprop="caption description">
+                                    MMC RTV SLO
+                                </figcaption>
+                            </figure>
+                            <figure class="photoswipe swiper-slide" itemprop="associatedMedia" itemscope="" itemtype="http://schema.org/ImageObject" style="width: 480px; margin-right: 1px;">
+                                <a href="https://img.rtvslo.si/_up/upload/2018/12/21/65552453.jpg" data-size="1200x800" data-id="18">
+                                    <img data-src="https://img.rtvslo.si/_up/upload/2018/12/21/65552453.jpg" class="lazy loaded" alt="" src="https://img.rtvslo.si/_up/upload/2018/12/21/65552453.jpg"/>
+                                </a>
+                                <figcaption itemprop="caption description">
+                                    MMC RTV SLO
+                                </figcaption>
+                            </figure>
+                            <figure class="photoswipe swiper-slide" itemprop="associatedMedia" itemscope="" itemtype="http://schema.org/ImageObject" style="width: 480px; margin-right: 1px;">
+                                <a href="https://img.rtvslo.si/_up/upload/2018/12/21/65552452.jpg" data-size="1200x800" data-id="19">
+                                    <img data-src="https://img.rtvslo.si/_up/upload/2018/12/21/65552452.jpg" class="lazy loaded" alt="" src="https://img.rtvslo.si/_up/upload/2018/12/21/65552452.jpg"/>
+                                </a>
+                                <figcaption itemprop="caption description">
+                                    MMC RTV SLO
+                                </figcaption>
+                            </figure>
+                        </div>
+                        <div class="swiper-button-next swiper-button-white"/>
+                        <div class="swiper-button-prev swiper-button-white"/>
+                    </div>
+                    <div class="gallery-bottom-thumbs">
+                        <figure class="photoswipe gallery-bottom-thumb" itemprop="associatedMedia" itemscope="" itemtype="http://schema.org/ImageObject">
+                            <a href="./Audi A6 50 TDI quattro_ nemir v premijskem razredu - RTVSLO.si_files/65552432.jpg" data-size="1200x800" data-id="20">
+                                <img data-src="https://img.rtvslo.si/_up/upload/2018/12/21/65552432.jpg" class="lazy loaded" alt="" src="https://img.rtvslo.si/_up/upload/2018/12/21/65552432.jpg"/>
+                            </a>
+                            <figcaption itemprop="caption description">
+                                MMC RTV SLO
+                            </figcaption>
+                        </figure>
+                        <figure class="photoswipe gallery-bottom-thumb" itemprop="associatedMedia" itemscope="" itemtype="http://schema.org/ImageObject">
+                            <a href="./Audi A6 50 TDI quattro_ nemir v premijskem razredu - RTVSLO.si_files/65552435.jpg" data-size="1200x800" data-id="21">
+                                <img data-src="https://img.rtvslo.si/_up/upload/2018/12/21/65552435.jpg" class="lazy loaded" alt="" src="https://img.rtvslo.si/_up/upload/2018/12/21/65552435.jpg"/>
+                            </a>
+                            <figcaption itemprop="caption description">
+                                MMC RTV SLO
+                            </figcaption>
+                        </figure>
+                        <figure class="photoswipe gallery-bottom-thumb" itemprop="associatedMedia" itemscope="" itemtype="http://schema.org/ImageObject">
+                            <a href="./Audi A6 50 TDI quattro_ nemir v premijskem razredu - RTVSLO.si_files/65552436.jpg" data-size="1200x800" data-id="22">
+                                <img data-src="https://img.rtvslo.si/_up/upload/2018/12/21/65552436.jpg" class="lazy loaded" alt="" src="https://img.rtvslo.si/_up/upload/2018/12/21/65552436.jpg"/>
+                            </a>
+                            <figcaption itemprop="caption description">
+                                MMC RTV SLO
+                            </figcaption>
+                        </figure>
+                        <figure class="photoswipe gallery-bottom-thumb more-photos" data-photo-count="15" itemprop="associatedMedia" itemscope="" itemtype="http://schema.org/ImageObject">
+                            <a href="./Audi A6 50 TDI quattro_ nemir v premijskem razredu - RTVSLO.si_files/65552438.jpg" data-size="1200x800" data-id="23">
+                                <img data-src="https://img.rtvslo.si/_up/upload/2018/12/21/65552438.jpg" class="lazy loaded" alt="" src="https://img.rtvslo.si/_up/upload/2018/12/21/65552438.jpg"/>
+                            </a>
+                            <figcaption itemprop="caption description">
+                                MMC RTV SLO
+                            </figcaption>
+                        </figure>
+                    </div>
+                </div>
+            ) ?
+            (
+                <figure class="iAdserver inArticle c-figure-right adloaded" data-iadserver-zone="32" style="margin: 0px; text-align: center;" id="bfae1083c6a84d84062758ca30123b8b">
+                    <script>
+                        _ipromNS('zone',32); console.log("zone=32");
+                    </script>
+                    <script type="text/javascript">
+                        iprom_ad_id='247200';
+iprom_FlashVersion=0;
+var _ipromNum = _ipromNum || 0;
+var _ipromZoneID = _ipromZoneID || 0;
+_ipromNum++;
+var _ipromNumAd = _ipromNumAd || [];
+_ipromNumAd[_ipromNum] = iprom_ad_id+"-"+_ipromZoneID;
+var iprom_AD_custom_settings=null;
+(function () {var s = document.createElement('script');s.src = "//adserver.iprom.net/adserver7/iLogger?z=32;t=js;sid=ziv_slog;ssid=avtomobilnost;m=rtvslo;cb="+(new Date().getTime())+";adid=247200;iact=ad_served;icat=;resx="+escape(screen.width)+";resy="+escape(screen.height);document.head.appendChild(s);})();(function () {var imga = document.createElement('img');imga.src = "//core.iprom.net/log/event/?time="+(new Date().getTime())+"&m=rtvslo&sid=ziv_slog&ssid=avtomobilnost&oadid=247200&z=32&ch=&kw=&sct=&resx="+escape(screen.width)+"&resy="+escape(screen.height)+"&iid=&e=ad_served&v=&c=&rdr=";imga.width=1;imga.height=1;imga.style.display="none";document.body.appendChild(imga);})();try {if (typeof(top._i_fbarray)=='undefined'){top._i_fbarray=[];}if (typeof(top._i_fbarray['z32'])=='undefined'){top._i_fbarray['z32']=[];}top._i_fbarray['z32'].push(247200);}catch(err) {if (typeof(_i_fbarray)=='undefined'){_i_fbarray=[];}if (typeof(_i_fbarray['z32'])=='undefined'){_i_fbarray['z32']=[];}_i_fbarray['z32'].push(247200);}_i_fbparam = {"lid":"247200","ssid":"avtomobilnost","m":"rtvslo","z":"32","sid":"ziv_slog"};
+document.write('<div class="ipromAP" rel="iAL1" data-zone="32" data-ad="247200">');
+    if (typeof(LazyLoader)!='undefined') {
+            var tmpAdArr = unescape("%3C!--%20(c)%202000-2019%20Gemius%20SA%20version%202.0%3A%20%2Frtvslo.si%2F300x250%2C%202019%20-%20KRKA%20-%20OUDR%20--%3E%0A%3Cscript%20language%3D%22javascript1.2%22%20type%3D%22text%2Fjavascript%22%3E%0A%2F%2F%3C!%5BCDATA%5B%0Adocument.write('%3Cscr'%2B'ipt%20src%3D%22%2F%2Fsigde.adocean.pl%2F_'%2B(new%20Date()).getTime()%2B'%2Fad.js%3Fid%3DJB9Log0XmBptKujCnlzKWEzAwJBm5yL0O8fz.TKdlpX.17%2Fnc%3D0%2Fgdpr%3D0%2Fgdpr_consent%3D%2Fredir%3D%22%20language%3D%22javascript%22%3E%3C%2Fscr'%2B'ipt%3E')%3B%0A%2F%2F%5D%5D%3E%0A%3C%2Fscript%3E").split('\n');
+
+            for (var _i=0; _i<tmpAdArr.length; _i++) {
+                if (_i>0&&tmpAdArr[_i].match(/<.script>/i)) {
+                    if (tmpAdArr[_i-1].match(/^\/\//i)) {
+                        document.write("\n"+tmpAdArr[_i]);
+                    } else {
+                        document.write(tmpAdArr[_i]);
+                    }
+                } else {
+                    if (_i==0) {
+                        document.write(tmpAdArr[_i]);
+                    } else {
+                        document.write("\n"+tmpAdArr[_i]);
+                    }
+                }
+            }
+} else {document.write(unescape("%3C!--%20(c)%202000-2019%20Gemius%20SA%20version%202.0%3A%20%2Frtvslo.si%2F300x250%2C%202019%20-%20KRKA%20-%20OUDR%20--%3E%0A%3Cscript%20language%3D%22javascript1.2%22%20type%3D%22text%2Fjavascript%22%3E%0A%2F%2F%3C!%5BCDATA%5B%0Adocument.write('%3Cscr'%2B'ipt%20src%3D%22%2F%2Fsigde.adocean.pl%2F_'%2B(new%20Date()).getTime()%2B'%2Fad.js%3Fid%3DJB9Log0XmBptKujCnlzKWEzAwJBm5yL0O8fz.TKdlpX.17%2Fnc%3D0%2Fgdpr%3D0%2Fgdpr_consent%3D%2Fredir%3D%22%20language%3D%22javascript%22%3E%3C%2Fscr'%2B'ipt%3E')%3B%0A%2F%2F%5D%5D%3E%0A%3C%2Fscript%3E"));
+}document.write("</div>");
+function iPromInsertScript(c,b){var d=document.createElement;HTMLDocument.prototype.createElement&&(document.createElement=HTMLDocument.prototype.createElement);var a=document.createElement("script");a.setAttribute("data-cfasync","false");a.defer=!0;a.async=!0;a.src=c;"function"==typeof b&&(a.onload=b);document.getElementsByTagName("head")[0].appendChild(a);document.createElement=d};
+iPromInsertScript("//a.ipromcloud.com/js/external.js?cb=38857",function(){ipromExternal(247200,32,1);});
+document.write('<div style="position:absolute; left: -1000px; top: -1000px;"><img src="https://adserver.iprom.net/adserver7/LogImpression?z=32;ad=247200;m=rtvslo;sid=ziv_slog;ssid=avtomobilnost;kw=;tm=1554297930;lcl=0" width=1 height=1></div>');function _iprom_logInView(e){var t=e.getAttribute("data-iadlogimp")||"";if(t){var n=document.createElement("img");n.src=unescape(t);n.width=1;n.height=1;n.style.opacity=0;if(document.body!=null){document.body.appendChild(n)}e.className+=" inView"}}function _iprom_isInView(e){var t=_iprom_scrollTop();var n=_iprom_clientHeight();var r=50;var i=e.offsetHeight;var s=Math.round(i*r/100);var o=0;var u=e;while(u!=null){o+=u.offsetTop;u=u.offsetParent}var a=o+s;if(a<t){return false}var f=t+n;if(a>f){return false}return true}function _iprom_clientHeight(){return _iprom_filterResults(window.innerHeight?window.innerHeight:0,document.documentElement?document.documentElement.clientHeight:0,document.body?document.body.clientHeight:0)}function _iprom_scrollTop(){return _iprom_filterResults(window.pageYOffset?window.pageYOffset:0,document.documentElement?document.documentElement.scrollTop:0,document.body?document.body.scrollTop:0)}function _iprom_filterResults(e,t,n){var r=e?e:0;if(t&&(!r||r>t))r=t;return n&&(!r||r>n)?n:r}if(!document.getElementsByClassName){document.getElementsByClassName=function(e){var t=[];var n=document.getElementsByTagName("*");var r=new RegExp("(^|\s)"+e+"(\s|1001 1001");for(var i=0;i<n.length;i++){if(r.test(n[i].className)){t.push(n[i])}}return t}}var iprom_inView_check=iprom_inView_check||function(){try{var e=document.getElementsByClassName("iprom_ad");for(var t=0;t<e.length;t++){if(e[t].className&&e[t].className.indexOf("inView")<0){var n=e[t].getAttribute("data-iadid")||0;if(n&&_iprom_isInView(e[t])){var r=e[t].getAttribute("data-inview-threshold")||0;if(r>0){var i=e[t];var s=function(){if(_iprom_isInView(i)&&i.className&&i.className.indexOf("inView")<0){_iprom_logInView(i)}};setTimeout(s,r*1e3,e[t])}else{e[t].className+=" inView";_iprom_logInView(e[t])}}}}}catch(o){}};if(typeof iprom_inView_init=="undefined"){iprom_inView_init=true;if(window.addEventListener){window.addEventListener("scroll",iprom_inView_check,false)}else if(window.attachEvent){window.attachEvent("onscroll",iprom_inView_check)}else{window["onscroll"]=iprom_inView_check}setTimeout("iprom_inView_check()",100);}
+                    </script>
+                    <div class="ipromAP" rel="iAL1" data-zone="32" data-ad="247200">
+                        <#comment/>
+                        <script language="javascript1.2" type="text/javascript">
+                            //<![CDATA[
+document.write('<scr'+'ipt src="//sigde.adocean.pl/_'+(new Date()).getTime()+'/ad.js?id=JB9Log0XmBptKujCnlzKWEzAwJBm5yL0O8fz.TKdlpX.17/nc=0/gdpr=0/gdpr_consent=/redir=" language="javascript"></scr'+'ipt>');
+//]]>
+                        </script>
+                        <script src="//sigde.adocean.pl/_1557266201602/ad.js?id=JB9Log0XmBptKujCnlzKWEzAwJBm5yL0O8fz.TKdlpX.17/nc=0/gdpr=0/gdpr_consent=/redir=" language="javascript">
+                        </script>
+                    </div>
+                    <div style="position:absolute; left: -1000px; top: -1000px;">
+                        <img src="https://adserver.iprom.net/adserver7/LogImpression?z=32;ad=247200;m=rtvslo;sid=ziv_slog;ssid=avtomobilnost;kw=;tm=1554297930;lcl=0" width="1" height="1"/>
+                    </div>
+                    <div class="ipromAP" rel="iAL1" data-zone="32" style="text-align: center;">
+                        <#comment/>
+                        <script language="javascript1.2" type="text/javascript">
+                            //<![CDATA[
+document.write('<scr'+'ipt src="//sigde.adocean.pl/_'+(new Date()).getTime()+'/ad.js?id=JB9Log0XmBptKujCnlzKWEzAwJBm5yL0O8fz.TKdlpX.17/nc=0/gdpr=0/gdpr_consent=/redir=" language="javascript"></scr'+'ipt>');
+//]]>
+                        </script>
+                        <script src="//sigde.adocean.pl/_1557266291121/ad.js?id=JB9Log0XmBptKujCnlzKWEzAwJBm5yL0O8fz.TKdlpX.17/nc=0/gdpr=0/gdpr_consent=/redir=" language="javascript">
+                        </script>
+                        <script src="./Volvo XC 40 D4 AWD momentum_ suvereno med najboljs?e v razredu - RTVSLO.si_files/ad.js" language="javascript">
+                        </script>
+                        <script type="text/javascript" src="https://si.hit.gemius.pl/gdejs/xgde.js">
+                        </script>
+                        <a target="_blank" href="https://si.hit.gemius.pl/lshitredir/id=zIE65jxep7g5Ys46AW8HG7e_Xfa8DC9A8AOKKI7SFEr.u7/fastid=cfngmhbnctpcdmftgrrpzlfvwnlc/stparam=kgdmmlphrw/roc=0/url=https://www.oduhljadorepa.com/?utm_source=rtvslo&amp;utm_medium=banner&amp;utm_campaign=oudr">
+                            <img src="https://sigde.adocean.pl/files/akaqknikucm/rfejpwhsmj/uberdnjrzu/Banner-300x250_3.jpg" width="300" height="250" border="0"/>
+                        </a>
+                        <script type="text/javascript" src="./Volvo XC 40 D4 AWD momentum_ suvereno med najboljs?e v razredu - RTVSLO.si_files/xgde.js">
+                        </script>
+                        <a target="_blank" href="https://si.hit.gemius.pl/lshitredir/id=zIE65jxep7g5Ys46AW8HG7e_Xfa8DC9A8AOKKI7SFEr.u7/fastid=ezoruyrgotnmlbinrhocdrjoqynd/stparam=nfmfjoftxx/roc=0/url=https://www.oduhljadorepa.com/?utm_source=rtvslo&amp;utm_medium=banner&amp;utm_campaign=oudr">
+                            <img src="./Volvo XC 40 D4 AWD momentum_ suvereno med najboljs?e v razredu - RTVSLO.si_files/Banner-300x250_5.jpg" width="300" height="250" border="0"/>
+                        </a>
+                    </div>
+                    <div style="position:absolute; left: -1000px; top: -1000px;">
+                        <img src="./Volvo XC 40 D4 AWD momentum_ suvereno med najboljs?e v razredu - RTVSLO.si_files/LogImpression" width="1" height="1"/>
+                    </div>
+                </figure>
+            ) ?
+            (
+                <p>
+                    Volvo se je nizjih srednjih razredov v preteklosti izogibal ali pa je vanje vstopal z zelo nisnimi produkti, ki niso pustili vecjega trznega pecata. V primeru XC 40 ni tezko napovedati, da bo ta tradicija prekinjena. Ponuja namrec visoko kakovost koncne izdelave in v kabini odlicno premisljeno funkcionalnost ter na dotik prijetne materiale.
+                </p>
+            ) ?
+            (
+                <p>
+                    Se posebej hvalimo stevilo, iznajdljivost in velikost razlicnih odlagalnih prostorov ter siroke, cvrste in zelo udobne sedeze. Intuitivno in enostavno logicno je upravljanje z velikim vmesnikom, ki z vecfunkcijskim zaslonom na dotik kraljuje na z roko lahko dostopnem mestu na sredinski armaturi. Razocaranj ne bo niti v velikosti in uporabnosti prtljaznega prostora, ki s 460 litri prostornine sicer ni med vecjimi v razredu, a se v uporabniskem smislu odkupi z dobro urejenostjo ter domiselnimi resitvami pregrajevanja.
+                </p>
+            ) ?
+            (
+                <figure class="{hide_class} photoswipe image c-figure-full" itemprop="associatedMedia" itemscope="" itemtype="http://schema.org/ImageObject">
+                    <a href="./Volvo XC 40 D4 AWD momentum_ suvereno med najboljs?e v razredu - RTVSLO.si_files/65559996.jpg" itemprop="contentUrl" data-size="1200x800" data-large="https://img.rtvslo.si/_up/upload/2019/01/25/65559996.jpg" data-id="1">
+                        <img src="./Volvo XC 40 D4 AWD momentum_ suvereno med najboljs?e v razredu - RTVSLO.si_files/65559996.jpg" title="" alt=""/>
+                    </a>
+                    <figcaption itemprop="caption description">
+                        <span class="icon-photo"/>
+                        Foto: David Savli
+                    </figcaption>
+                </figure>
+            ) ?
+            (
+                <p>
+                    XC 40 je od tal odmaknjen konkretnih 21 cm, a sta vzmetenje in krmilni mehanizem tako nastavljena, da ponuja tudi v hitro odpeljanih ovinkih zelo dolgo nevtralno in predvidljivo lego. V premeru preskusanega modela, ki je imel v paketu R design vzmetenje se nekoliko bolj trdo, se je to samo se bolj potrdilo, a je v tem primeru treba racunati na manj udobno voznjo cez razlicne asfaltne grbine. Podoben razmislek velja opraviti tudi pri izbiri motorja.
+                </p>
+            ) ?
+            (
+                <p>
+                    Preskusani 2-litrski dizel s 190 KM predstavlja vrh ponudbe, ki z mocjo, udobjem in tudi povprecno porabo navdusi predvsem pri avtocestnih dolgoprogaskih izzivih, v pocasni mestni voznji ter pri pogostih postankih in speljevanjih pa deluje prevec robusten.
+                </p>
+            ) ?
+            (
+                <p>
+                    XC 40 je s cvrsto gradnjo, funkcionalno in udobno kabino ter stevilnimi asistencnimi sistemi in izstopajocim skandinavskim dizajnom v premisljenem trenutku vstopil na trg modnih mestnih terencev, v katerem se brez ene same sence dvoma suvereno postavi med najdrazje in najbolj premijske v mestu.
+                </p>
+            ) ?
+            (
+                <p>
+                    <strong>
+                        Kljucni tehnicni podatki:
+                    </strong>
+                    <br/>
+                    - na testu Volvo XC40 2.0 TD avt awd momentum
+                </p>
+            ) ?
+            (
+                <p>
+                    Mere:
+                    <br/>
+                    - dolzina: 4,4 m
+                    <br/>
+                    - medosna razdalja: 2,7 m
+                    <br/>
+                    - obracalni krog: 11,4 m
+                    <br/>
+                    - oddaljenost od tal: 21 cm
+                    <br/>
+                    - prtljaznik: 432 l
+                    <br/>
+                    - masa: 2.250 kg
+                    <br/>
+                    Pogon:
+                    <br/>
+                    - 2-litrski 4-valjni bencinski motor
+                    <br/>
+                    - moc: 140 kW
+                    <br/>
+                    - navor: 400 Nm
+                    <br/>
+                    - 8-stopenjski samodejni menjalnik
+                    <br/>
+                    - pogon na vsa stiri kolesa
+                    <br/>
+                    - pnevmatike: 235/50 R19
+                    <br/>
+                    - poraba: 6,3 l/100 km = 8,2 EUR/100km
+                    <br/>
+                    - posoda za gorivo: 54 l
+                    <br/>
+                    - doseg: 857 km
+                    <br/>
+                    - izpusti CO2: 133 g/km
+                </p>
+            ) ?
+            (
+                <p>
+                    Stroski pri 15.000 km in 5-letni uporabi:
+                    <br/>
+                    - nakupna cena: 43.619 EUR
+                    <br/>
+                    - stroski financnega leasinga: 3.268 EUR/5 let
+                    <br/>
+                    - stroski registracije: 8.701 EUR/5 let
+                    <br/>
+                    - stroski vzdrzevanja: 2.320 EUR/5 let
+                    <br/>
+                    - stroski goriva: 6.190 EUR/75.000 km
+                    <br/>
+                    - strosek 1 kompleta pnevmatik: 923 EUR
+                    <br/>
+                    - vrednosti po 5 letih po Eurotaxu: 18.886 EUR
+                    <br/>
+                    - stroski skupaj: 774 EUR/mesec
+                </p>
+            ) ?
+            (
+                <figure class="mceNonEditable c-figure-full">
+                    <div class="embed-responsive" style="padding-bottom: 56.25%">
+                        <iframe src="./Volvo XC 40 D4 AWD momentum_ suvereno med najboljs?e v razredu - RTVSLO.si_files/13EJ34FK4fo.html" width="560" height="315" class="embed-responsive-item" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen=""/>
+                    </div>
+                </figure>
+            ) ?
+            (
+                <div class="gallery">
+                    <div class="swiper-container swiper-footer-gallery swiper-container-horizontal swiper-container-wp8-horizontal">
+                        <div class="swiper-wrapper" style="transform: translate3d(0px, 0px, 0px); transition-duration: 0ms;">
+                            <figure class="photoswipe swiper-slide swiper-slide-active" itemprop="associatedMedia" itemscope="" itemtype="http://schema.org/ImageObject" style="width: 480px; margin-right: 1px;">
+                                <a href="https://img.rtvslo.si/_up/upload/2019/01/25/65559998.jpg" data-size="1200x800" data-id="2">
+                                    <img data-src="https://img.rtvslo.si/_up/upload/2019/01/25/65559998_fp-md.jpg" class="lazy loaded" alt=" Foto: David Savli" src="https://img.rtvslo.si/_up/upload/2019/01/25/65559998_fp-md.jpg"/>
+                                </a>
+                                <figcaption itemprop="caption description">
+                                    Foto: David Savli
+                                </figcaption>
+                            </figure>
+                            <figure class="photoswipe swiper-slide swiper-slide-next" itemprop="associatedMedia" itemscope="" itemtype="http://schema.org/ImageObject" style="width: 480px; margin-right: 1px;">
+                                <a href="./Volvo XC 40 D4 AWD momentum_ suvereno med najboljs?e v razredu - RTVSLO.si_files/65559997.jpg" data-size="1200x800" data-id="3">
+                                    <img data-src="https://img.rtvslo.si/_up/upload/2019/01/25/65559997_fp-md.jpg" class="lazy loaded" alt=" Foto: David Savli" src="https://img.rtvslo.si/_up/upload/2019/01/25/65559997_fp-md.jpg"/>
+                                </a>
+                                <figcaption itemprop="caption description">
+                                    Foto: David Savli
+                                </figcaption>
+                            </figure>
+                            <figure class="photoswipe swiper-slide" itemprop="associatedMedia" itemscope="" itemtype="http://schema.org/ImageObject" style="width: 480px; margin-right: 1px;">
+                                <a href="./Volvo XC 40 D4 AWD momentum_ suvereno med najboljs?e v razredu - RTVSLO.si_files/65560001.jpg" data-size="1200x800" data-id="4">
+                                    <img data-src="https://img.rtvslo.si/_up/upload/2019/01/25/65560001_fp-md.jpg" class="lazy loaded" alt=" Foto: David Savli" src="https://img.rtvslo.si/_up/upload/2019/01/25/65560001_fp-md.jpg"/>
+                                </a>
+                                <figcaption itemprop="caption description">
+                                    Foto: David Savli
+                                </figcaption>
+                            </figure>
+                            <figure class="photoswipe swiper-slide" itemprop="associatedMedia" itemscope="" itemtype="http://schema.org/ImageObject" style="width: 480px; margin-right: 1px;">
+                                <a href="./Volvo XC 40 D4 AWD momentum_ suvereno med najboljs?e v razredu - RTVSLO.si_files/65560008.jpg" data-size="1200x800" data-id="5">
+                                    <img data-src="https://img.rtvslo.si/_up/upload/2019/01/25/65560008_fp-md.jpg" class="lazy loaded" alt=" Foto: David Savli" src="https://img.rtvslo.si/_up/upload/2019/01/25/65560008_fp-md.jpg"/>
+                                </a>
+                                <figcaption itemprop="caption description">
+                                    Foto: David Savli
+                                </figcaption>
+                            </figure>
+                            <figure class="photoswipe swiper-slide" itemprop="associatedMedia" itemscope="" itemtype="http://schema.org/ImageObject" style="width: 480px; margin-right: 1px;">
+                                <a href="./Volvo XC 40 D4 AWD momentum_ suvereno med najboljs?e v razredu - RTVSLO.si_files/65560007.jpg" data-size="1200x800" data-id="6">
+                                    <img data-src="https://img.rtvslo.si/_up/upload/2019/01/25/65560007_fp-md.jpg" class="lazy loaded" alt=" Foto: David Savli" src="https://img.rtvslo.si/_up/upload/2019/01/25/65560007_fp-md.jpg"/>
+                                </a>
+                                <figcaption itemprop="caption description">
+                                    Foto: David Savli
+                                </figcaption>
+                            </figure>
+                            <figure class="photoswipe swiper-slide" itemprop="associatedMedia" itemscope="" itemtype="http://schema.org/ImageObject" style="width: 480px; margin-right: 1px;">
+                                <a href="https://img.rtvslo.si/_up/upload/2019/01/25/65560003.jpg" data-size="1200x800" data-id="7">
+                                    <img data-src="https://img.rtvslo.si/_up/upload/2019/01/25/65560003_fp-md.jpg" class="lazy loaded" alt=" Foto: David Savli" src="https://img.rtvslo.si/_up/upload/2019/01/25/65560003_fp-md.jpg"/>
+                                </a>
+                                <figcaption itemprop="caption description">
+                                    Foto: David Savli
+                                </figcaption>
+                            </figure>
+                            <figure class="photoswipe swiper-slide" itemprop="associatedMedia" itemscope="" itemtype="http://schema.org/ImageObject" style="width: 480px; margin-right: 1px;">
+                                <a href="https://img.rtvslo.si/_up/upload/2019/01/25/65560009.jpg" data-size="1200x800" data-id="8">
+                                    <img data-src="https://img.rtvslo.si/_up/upload/2019/01/25/65560009_fp-md.jpg" class="lazy loaded" alt=" Foto: David Savli" src="https://img.rtvslo.si/_up/upload/2019/01/25/65560009_fp-md.jpg"/>
+                                </a>
+                                <figcaption itemprop="caption description">
+                                    Foto: David Savli
+                                </figcaption>
+                            </figure>
+                            <figure class="photoswipe swiper-slide" itemprop="associatedMedia" itemscope="" itemtype="http://schema.org/ImageObject" style="width: 480px; margin-right: 1px;">
+                                <a href="https://img.rtvslo.si/_up/upload/2019/01/25/65560004.jpg" data-size="1200x800" data-id="9">
+                                    <img data-src="https://img.rtvslo.si/_up/upload/2019/01/25/65560004_fp-md.jpg" class="lazy loaded" alt=" Foto: David Savli" src="https://img.rtvslo.si/_up/upload/2019/01/25/65560004_fp-md.jpg"/>
+                                </a>
+                                <figcaption itemprop="caption description">
+                                    Foto: David Savli
+                                </figcaption>
+                            </figure>
+                            <figure class="photoswipe swiper-slide" itemprop="associatedMedia" itemscope="" itemtype="http://schema.org/ImageObject" style="width: 480px; margin-right: 1px;">
+                                <a href="https://img.rtvslo.si/_up/upload/2019/01/25/65560005.jpg" data-size="1200x800" data-id="10">
+                                    <img data-src="https://img.rtvslo.si/_up/upload/2019/01/25/65560005_fp-md.jpg" class="lazy loaded" alt=" Foto: David Savli" src="https://img.rtvslo.si/_up/upload/2019/01/25/65560005_fp-md.jpg"/>
+                                </a>
+                                <figcaption itemprop="caption description">
+                                    Foto: David Savli
+                                </figcaption>
+                            </figure>
+                            <figure class="photoswipe swiper-slide" itemprop="associatedMedia" itemscope="" itemtype="http://schema.org/ImageObject" style="width: 480px; margin-right: 1px;">
+                                <a href="https://img.rtvslo.si/_up/upload/2019/01/25/65559994.jpg" data-size="1200x800" data-id="11">
+                                    <img data-src="https://img.rtvslo.si/_up/upload/2019/01/25/65559994_fp-md.jpg" class="lazy loaded" alt=" Foto: David Savli" src="https://img.rtvslo.si/_up/upload/2019/01/25/65559994_fp-md.jpg"/>
+                                </a>
+                                <figcaption itemprop="caption description">
+                                    Foto: David Savli
+                                </figcaption>
+                            </figure>
+                            <figure class="photoswipe swiper-slide" itemprop="associatedMedia" itemscope="" itemtype="http://schema.org/ImageObject" style="width: 480px; margin-right: 1px;">
+                                <a href="https://img.rtvslo.si/_up/upload/2019/01/25/65559985.jpg" data-size="1200x800" data-id="12">
+                                    <img data-src="https://img.rtvslo.si/_up/upload/2019/01/25/65559985_fp-md.jpg" class="lazy loaded" alt=" Foto: David Savli" src="https://img.rtvslo.si/_up/upload/2019/01/25/65559985_fp-md.jpg"/>
+                                </a>
+                                <figcaption itemprop="caption description">
+                                    Foto: David Savli
+                                </figcaption>
+                            </figure>
+                            <figure class="photoswipe swiper-slide" itemprop="associatedMedia" itemscope="" itemtype="http://schema.org/ImageObject" style="width: 480px; margin-right: 1px;">
+                                <a href="https://img.rtvslo.si/_up/upload/2019/01/25/65559992.jpg" data-size="1200x800" data-id="13">
+                                    <img data-src="https://img.rtvslo.si/_up/upload/2019/01/25/65559992_fp-md.jpg" class="lazy loaded" alt=" Foto: David Savli" src="https://img.rtvslo.si/_up/upload/2019/01/25/65559992_fp-md.jpg"/>
+                                </a>
+                                <figcaption itemprop="caption description">
+                                    Foto: David Savli
+                                </figcaption>
+                            </figure>
+                            <figure class="photoswipe swiper-slide" itemprop="associatedMedia" itemscope="" itemtype="http://schema.org/ImageObject" style="width: 480px; margin-right: 1px;">
+                                <a href="https://img.rtvslo.si/_up/upload/2019/01/25/65559991.jpg" data-size="1200x800" data-id="14">
+                                    <img data-src="https://img.rtvslo.si/_up/upload/2019/01/25/65559991_fp-md.jpg" class="lazy loaded" alt=" Foto: David Savli" src="https://img.rtvslo.si/_up/upload/2019/01/25/65559991_fp-md.jpg"/>
+                                </a>
+                                <figcaption itemprop="caption description">
+                                    Foto: David Savli
+                                </figcaption>
+                            </figure>
+                            <figure class="photoswipe swiper-slide" itemprop="associatedMedia" itemscope="" itemtype="http://schema.org/ImageObject" style="width: 480px; margin-right: 1px;">
+                                <a href="https://img.rtvslo.si/_up/upload/2019/01/25/65559987.jpg" data-size="1200x800" data-id="15">
+                                    <img data-src="https://img.rtvslo.si/_up/upload/2019/01/25/65559987_fp-md.jpg" class="lazy loaded" alt=" Foto: David Savli" src="https://img.rtvslo.si/_up/upload/2019/01/25/65559987_fp-md.jpg"/>
+                                </a>
+                                <figcaption itemprop="caption description">
+                                    Foto: David Savli
+                                </figcaption>
+                            </figure>
+                            <figure class="photoswipe swiper-slide" itemprop="associatedMedia" itemscope="" itemtype="http://schema.org/ImageObject" style="width: 480px; margin-right: 1px;">
+                                <a href="https://img.rtvslo.si/_up/upload/2019/01/25/65559990.jpg" data-size="1200x800" data-id="16">
+                                    <img data-src="https://img.rtvslo.si/_up/upload/2019/01/25/65559990_fp-md.jpg" class="lazy loaded" alt=" Foto: David Savli" src="https://img.rtvslo.si/_up/upload/2019/01/25/65559990_fp-md.jpg"/>
+                                </a>
+                                <figcaption itemprop="caption description">
+                                    Foto: David Savli
+                                </figcaption>
+                            </figure>
+                            <figure class="photoswipe swiper-slide" itemprop="associatedMedia" itemscope="" itemtype="http://schema.org/ImageObject" style="width: 480px; margin-right: 1px;">
+                                <a href="https://img.rtvslo.si/_up/upload/2019/01/25/65559989.jpg" data-size="1200x800" data-id="17">
+                                    <img data-src="https://img.rtvslo.si/_up/upload/2019/01/25/65559989_fp-md.jpg" class="lazy loaded" alt=" Foto: David Savli" src="https://img.rtvslo.si/_up/upload/2019/01/25/65559989_fp-md.jpg"/>
+                                </a>
+                                <figcaption itemprop="caption description">
+                                    Foto: David Savli
+                                </figcaption>
+                            </figure>
+                            <figure class="photoswipe swiper-slide" itemprop="associatedMedia" itemscope="" itemtype="http://schema.org/ImageObject" style="width: 480px; margin-right: 1px;">
+                                <a href="https://img.rtvslo.si/_up/upload/2019/01/25/65559988.jpg" data-size="1200x800" data-id="18">
+                                    <img data-src="https://img.rtvslo.si/_up/upload/2019/01/25/65559988_fp-md.jpg" class="lazy loaded" alt=" Foto: David Savli" src="https://img.rtvslo.si/_up/upload/2019/01/25/65559988_fp-md.jpg"/>
+                                </a>
+                                <figcaption itemprop="caption description">
+                                    Foto: David Savli
+                                </figcaption>
+                            </figure>
+                            <figure class="photoswipe swiper-slide" itemprop="associatedMedia" itemscope="" itemtype="http://schema.org/ImageObject" style="width: 480px; margin-right: 1px;">
+                                <a href="https://img.rtvslo.si/_up/upload/2019/01/25/65559993.jpg" data-size="1200x800" data-id="19">
+                                    <img data-src="https://img.rtvslo.si/_up/upload/2019/01/25/65559993_fp-md.jpg" class="lazy loaded" alt=" Foto: David Savli" src="https://img.rtvslo.si/_up/upload/2019/01/25/65559993_fp-md.jpg"/>
+                                </a>
+                                <figcaption itemprop="caption description">
+                                    Foto: David Savli
+                                </figcaption>
+                            </figure>
+                        </div>
+                        <div class="swiper-button-next swiper-button-white"/>
+                        <div class="swiper-button-prev swiper-button-white swiper-button-disabled"/>
+                    </div>
+                    <div class="gallery-bottom-thumbs">
+                        <figure class="photoswipe gallery-bottom-thumb" itemprop="associatedMedia" itemscope="" itemtype="http://schema.org/ImageObject">
+                            <a href="./Volvo XC 40 D4 AWD momentum_ suvereno med najboljs?e v razredu - RTVSLO.si_files/65559997.jpg" data-size="1200x800" data-id="20">
+                                <img data-src="https://img.rtvslo.si/_up/upload/2019/01/25/65559997.jpg" class="lazy loaded" alt=" Foto: David Savli" src="https://img.rtvslo.si/_up/upload/2019/01/25/65559997.jpg"/>
+                            </a>
+                            <figcaption itemprop="caption description">
+                                Foto: David Savli
+                            </figcaption>
+                        </figure>
+                        <figure class="photoswipe gallery-bottom-thumb" itemprop="associatedMedia" itemscope="" itemtype="http://schema.org/ImageObject">
+                            <a href="./Volvo XC 40 D4 AWD momentum_ suvereno med najboljs?e v razredu - RTVSLO.si_files/65560001.jpg" data-size="1200x800" data-id="21">
+                                <img data-src="https://img.rtvslo.si/_up/upload/2019/01/25/65560001.jpg" class="lazy loaded" alt=" Foto: David Savli" src="https://img.rtvslo.si/_up/upload/2019/01/25/65560001.jpg"/>
+                            </a>
+                            <figcaption itemprop="caption description">
+                                Foto: David Savli
+                            </figcaption>
+                        </figure>
+                        <figure class="photoswipe gallery-bottom-thumb" itemprop="associatedMedia" itemscope="" itemtype="http://schema.org/ImageObject">
+                            <a href="./Volvo XC 40 D4 AWD momentum_ suvereno med najboljs?e v razredu - RTVSLO.si_files/65560008.jpg" data-size="1200x800" data-id="22">
+                                <img data-src="https://img.rtvslo.si/_up/upload/2019/01/25/65560008.jpg" class="lazy loaded" alt=" Foto: David Savli" src="https://img.rtvslo.si/_up/upload/2019/01/25/65560008.jpg"/>
+                            </a>
+                            <figcaption itemprop="caption description">
+                                Foto: David Savli
+                            </figcaption>
+                        </figure>
+                        <figure class="photoswipe gallery-bottom-thumb more-photos" data-photo-count="14" itemprop="associatedMedia" itemscope="" itemtype="http://schema.org/ImageObject">
+                            <a href="./Volvo XC 40 D4 AWD momentum_ suvereno med najboljs?e v razredu - RTVSLO.si_files/65560007.jpg" data-size="1200x800" data-id="23">
+                                <img data-src="https://img.rtvslo.si/_up/upload/2019/01/25/65560007.jpg" class="lazy loaded" alt=" Foto: David Savli" src="https://img.rtvslo.si/_up/upload/2019/01/25/65560007.jpg"/>
+                            </a>
+                            <figcaption itemprop="caption description">
+                                Foto: David Savli
+                            </figcaption>
+                        </figure>
+                    </div>
+                </div>
+            ) ?
+        </article>
+    </div>
+    <div class="article-column">
+        <div class="sticky-block">
+            <div class="rightColumnAd">
+                <div class="iAdserver dynamic-advert-article-inside adloaded" data-iadserver-zone="31" id="#text" style="text-align: center;">
+                    <script>
+                        _ipromNS('zone',31); console.log("zone=31");
+                    </script>
+                    <script type="text/javascript">
+                        if(typeof  window.log9request != "undefined" ){log9request({m : 'rtvslo',sid : 'ziv_slog',ssid : 'avtomobilnost',z : '31'});}
+                    </script>
+                </div>
+            </div>
+            <div class="right-block similar-articles">
+                <h4 class="#text">
+                    Zadnje iz sekcije
+                </h4>
+                <div class="article-container">
+                    <div class="row">
+                        <div class="col-md-5 image">
+                            <a href="#text" class="image-link container-16-9" title="#text" ( sotor="") ?  ( bi="") ?  ( napolnili,="") ?  ( pa="") ?  ( ce="") ?  ( bil="") ?  ( se="") ?  ( 20="") ?  ( metrov="") ?  ( daljsi""="") ?  data-large="#text">
+                                <img class="img-fluid lazy loaded" alt="#text" ( sotor="") ?  ( bi="") ?  ( napolnili,="") ?  ( pa="") ?  ( ce="") ?  ( bil="") ?  ( se="") ?  ( 20="") ?  ( metrov="") ?  ( daljsi""="") ?  data-src="#text" src="#text"/>
+                            </a>
+                        </div>
+                        <div class="col-md-7 title">
+                            <a class="list-title" href="#text" title="#text" ( sotor="") ?  ( bi="") ?  ( napolnili,="") ?  ( pa="") ?  ( ce="") ?  ( bil="") ?  ( se="") ?  ( 20="") ?  ( metrov="") ?  ( daljsi""="") ? >
+                                #text
+                            </a>
+                        </div>
+                    </div>
+                </div>
+                <div class="article-container">
+                    <div class="row">
+                        <div class="col-md-5 image">
+                            <a href="#text" class="image-link container-16-9" title="#text" data-large="#text">
+                                <img class="img-fluid lazy loaded" alt="#text" data-src="#text" src="#text"/>
+                            </a>
+                        </div>
+                        <div class="col-md-7 title">
+                            <a class="list-title" href="#text" title="#text">
+                                #text
+                            </a>
+                        </div>
+                    </div>
+                </div>
+                <div class="article-container">
+                    <div class="row">
+                        <div class="col-md-5 image">
+                            <a href="#text" class="image-link container-16-9" title="#text" data-large="#text">
+                                <img class="img-fluid lazy loaded" alt="#text" data-src="#text" src="#text"/>
+                            </a>
+                        </div>
+                        <div class="col-md-7 title">
+                            <a class="list-title" href="#text" title="#text">
+                                #text
+                            </a>
+                        </div>
+                    </div>
+                </div>
+                <div class="article-container">
+                    <div class="row">
+                        <div class="col-md-5 image">
+                            <a href="#text" class="image-link container-16-9" title="#text" data-large="#text">
+                                <img class="img-fluid lazy loaded" alt="#text" data-src="#text" src="#text"/>
+                            </a>
+                        </div>
+                        <div class="col-md-7 title">
+                            <a class="list-title" href="#text" title="#text">
+                                #text
+                            </a>
+                        </div>
+                    </div>
+                </div>
+                <div class="article-container">
+                    <div class="row">
+                        <div class="col-md-5 image">
+                            <a href="#text" class="image-link container-16-9" title="#text" data-large="#text">
+                                <img class="img-fluid lazy loaded" alt="#text" data-src="#text" src="#text"/>
+                            </a>
+                        </div>
+                        <div class="col-md-7 title">
+                            <a class="list-title" href="#text" title="#text">
+                                #text
+                            </a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="article-footer">
+        <div class="article-tags">
+            (
+                <a class="tag tag-red-dark" href="#text">
+                    #text
+                </a>
+            ) +
+        </div>
+        <div class="share">
+            <a class="error-report" href="#text">
+                Prijavi napako
+            </a>
+            <div class="share-icon facebook" onclick="#text"/>
+            <div class="share-icon twitter" onclick="#text"/>
+            <div class="share-icon email" onclick="#text"/>
+            <#comment/>
+        </div>
+        <figure class="c-figure-aside d-none bottom-left-advert">
+            <div class="advert-title">
+                Oglas
+            </div>
+            <div class="iAdserver dynamic-advert-article-inside adloaded" data-iadserver-zone="90" id="#text" style="text-align: center;">
+                <script>
+                    _ipromNS('zone',90); console.log("zone=90");
+                </script>
+                <script type="text/javascript">
+                    if(typeof  window.log9request != "undefined" ){log9request({m : 'rtvslo',sid : 'ziv_slog',ssid : 'avtomobilnost',z : '90'});}
+                </script>
+            </div>
+        </figure>
+    </div>
+</div>
+

@@ -1,0 +1,573 @@
+<ol class="stream-items js-navigable-stream" id="stream-items-id">
+    (
+        <li class="js-stream-item stream-item stream-item
+" data-item-id="#text" id="#text" data-item-type="tweet" data-suggestion-json="#text">
+            <div class="#text" data-tweet-id="#text" data-item-id="#text" data-permalink-path="#text" data-conversation-id="#text" data-tweet-nonce="#text" data-tweet-stat-initialized="true" data-screen-name="#text" data-name="#text" data-user-id="#text" data-you-follow="false" data-follows-you="false" data-you-block="false" data-reply-to-users-json="#text" data-disclosure-type=""(
+ data-has-cards="true") ?
+>
+                <div class="context">
+                    (
+                        <div class="tweet-context with-icn
+
+     pinned">
+                            <span class="Icon Icon--small Icon--pinned u-textUserColor"/>
+                            <span class="js-pinned-text" data-aria-label-part="">
+                                Pinned Tweet
+                            </span>
+                        </div>
+                    ) ?
+                </div>
+                <div class="content">
+                    (
+                        <div class="#text">
+                            (
+                                <a class="account-group js-account-group js-action-profile js-user-profile-link js-nav" href="#text" data-user-id="#text">
+                                    <img class="avatar js-action-profile-avatar" src="#text" alt=""/>
+                                    <span class="FullNameGroup">
+                                        <strong class="fullname show-popup-with-id u-textTruncate " data-aria-label-part="">
+                                            #text
+                                        </strong>
+                                        <span>
+                                            ?
+                                        </span>
+                                        <span class="UserBadges"/>
+                                        <span class="UserNameBreak">
+                                            &nbsp;
+                                        </span>
+                                    </span>
+                                    <span class="username u-dir u-textTruncate" dir="ltr" data-aria-label-part="">
+                                        @
+                                        <b>
+                                            #text
+                                        </b>
+                                    </span>
+                                </a>
+                            ) ?
+                            (
+                                <small class="time">
+                                    <a href="#text" class="tweet-timestamp js-permalink js-nav js-tooltip" title="#text" data-conversation-id="#text"(
+ data-original-title="7:51 AM - 28 Apr 2019") ?
+>
+                                        (
+                                            <span class="#text" data-aria-label-part="last" data-time="#text" data-time-ms="#text" data-long-form="true"(
+ aria-hidden="true") ?
+>
+                                                (
+                                                    <span class="u-hiddenVisually" data-aria-label-part="last">
+                                                        17 hours ago
+                                                    </span>
+                                                ) ?
+                                                (
+                                                    #text
+                                                ) ?
+                                            </span>
+                                        ) +
+                                    </a>
+                                </small>
+                            ) ?
+                            (
+                                <div class="ProfileTweet-action ProfileTweet-action--more js-more-ProfileTweet-actions">
+                                    <div class="dropdown">
+                                        <button class="ProfileTweet-actionButton u-textUserColorHover dropdown-toggle js-dropdown-toggle" type="button" aria-haspopup="true">
+                                            <div class="IconContainer js-tooltip" title="More">
+                                                <span class="Icon Icon--caretDownLight Icon--small"/>
+                                                <span class="u-hiddenVisually">
+                                                    More
+                                                </span>
+                                            </div>
+                                        </button>
+                                        <div class="dropdown-menu is-autoCentered">
+                                            <div class="dropdown-caret">
+                                                <div class="caret-outer"/>
+                                                <div class="caret-inner"/>
+                                            </div>
+                                            <ul>
+                                                <li class="copy-link-to-tweet js-actionCopyLinkToTweet">
+                                                    <button type="button" class="dropdown-link">
+                                                        Copy link to Tweet
+                                                    </button>
+                                                </li>
+                                                <li class="embed-link js-actionEmbedTweet" data-nav="embed_tweet">
+                                                    <button type="button" class="dropdown-link">
+                                                        Embed Tweet
+                                                    </button>
+                                                </li>
+                                            </ul>
+                                        </div>
+                                    </div>
+                                </div>
+                            ) ?
+                            (
+                                <p class="TweetTextSize TweetTextSize--normal js-tweet-text tweet-text" data-aria-label-part="0" lang="#text">
+                                    #text
+                                    (
+                                        (
+                                            <img class="Emoji Emoji--forText" src="Datoteke_za_Dad%20Jokes%20(@Dadsaysjokes)%20%20%20Twitter/1f602.png" draggable="false" alt="??" title="Face with tears of joy" aria-label="Emoji: Face with tears of joy"/>
+                                        ) ?
+                                    ) ?
+                                    (
+                                        (
+                                            <img class="Emoji Emoji--forText" src="Datoteke_za_Dad%20Jokes%20(@Dadsaysjokes)%20%20%20Twitter/1f602.png" draggable="false" alt="??" title="Face with tears of joy" aria-label="Emoji: Face with tears of joy"/>
+                                        ) ?
+                                    ) ?
+                                    (
+                                        (
+                                            Just click the link
+                                        ) ?
+                                    ) ?
+                                    (
+                                        <a href="https://twitter.com/hashtag/danpoezije?src=hash" data-query-source="hashtag_click" class="twitter-hashtag pretty-link js-nav" dir="ltr">
+                                            <s>
+                                                #
+                                            </s>
+                                            <b>
+                                                danpoezije
+                                            </b>
+                                        </a>
+                                    ) ?
+                                    (
+                                        <a href="https://t.co/9Wa3LQei8Y" class="twitter-timeline-link u-hidden" data-pre-embedded="true" dir="ltr">
+                                            pic.twitter.com/9Wa3LQei8Y
+                                        </a>
+                                    ) ?
+                                </p>
+                            ) ?
+                            (
+                                <div class="#text"(
+ data-autoplaying-media="true") ?
+>
+                                    (
+                                        <div class="#text"(
+ data-autoplaying-media="true") ?
+>
+                                            (
+                                                <div class="ProfileTweet-action ProfileTweet-action--reply">
+                                                    <button class="ProfileTweet-actionButton js-actionButton js-actionReply" data-modal="ProfileTweet-reply" type="button" aria-describedby="profile-tweet-action-reply-count-aria-1122106909140639744">
+                                                        <div class="IconContainer js-tooltip" title="Reply">
+                                                            <span class="Icon Icon--medium Icon--reply"/>
+                                                            <span class="u-hiddenVisually">
+                                                                Reply
+                                                            </span>
+                                                        </div>
+                                                        <span class="ProfileTweet-actionCount ProfileTweet-actionCount--isZero ">
+                                                            <span class="ProfileTweet-actionCountForPresentation" aria-hidden="true"/>
+                                                        </span>
+                                                    </button>
+                                                </div>
+                                            ) ?
+                                            (
+                                                <div class="ProfileTweet-action ProfileTweet-action--retweet js-toggleState js-toggleRt">
+                                                    <button class="ProfileTweet-actionButton  js-actionButton js-actionRetweet" data-modal="ProfileTweet-retweet" type="button" aria-describedby="profile-tweet-action-retweet-count-aria-1122106909140639744">
+                                                        <div class="IconContainer js-tooltip" title="Retweet">
+                                                            <span class="Icon Icon--medium Icon--retweet"/>
+                                                            <span class="u-hiddenVisually">
+                                                                Retweet
+                                                            </span>
+                                                        </div>
+                                                        <span class="ProfileTweet-actionCount">
+                                                            <span class="ProfileTweet-actionCountForPresentation" aria-hidden="true">
+                                                                3
+                                                            </span>
+                                                        </span>
+                                                    </button>
+                                                    <button class="ProfileTweet-actionButtonUndo js-actionButton js-actionRetweet" data-modal="ProfileTweet-retweet" type="button">
+                                                        <div class="IconContainer js-tooltip" title="Undo retweet">
+                                                            <span class="Icon Icon--medium Icon--retweet"/>
+                                                            <span class="u-hiddenVisually">
+                                                                Retweeted
+                                                            </span>
+                                                        </div>
+                                                        <span class="ProfileTweet-actionCount">
+                                                            <span class="ProfileTweet-actionCountForPresentation" aria-hidden="true">
+                                                                3
+                                                            </span>
+                                                        </span>
+                                                    </button>
+                                                </div>
+                                            ) ?
+                                            (
+                                                <div class="ProfileTweet-action ProfileTweet-action--favorite js-toggleState">
+                                                    <button class="ProfileTweet-actionButton js-actionButton js-actionFavorite" type="button" aria-describedby="profile-tweet-action-favorite-count-aria-1122106909140639744">
+                                                        <div class="IconContainer js-tooltip" data-original-title="Like">
+                                                            <span role="presentation" class="Icon Icon--heart Icon--medium"/>
+                                                            <div class="HeartAnimation"/>
+                                                            <span class="u-hiddenVisually">
+                                                                Like
+                                                            </span>
+                                                        </div>
+                                                        <span class="ProfileTweet-actionCount">
+                                                            <span class="ProfileTweet-actionCountForPresentation" aria-hidden="true">
+                                                                7
+                                                            </span>
+                                                        </span>
+                                                    </button>
+                                                    <button class="ProfileTweet-actionButtonUndo ProfileTweet-action--unfavorite u-linkClean js-actionButton js-actionFavorite" type="button">
+                                                        <div class="IconContainer js-tooltip" title="Undo like">
+                                                            <span role="presentation" class="Icon Icon--heart Icon--medium"/>
+                                                            <div class="HeartAnimation"/>
+                                                            <span class="u-hiddenVisually">
+                                                                Liked
+                                                            </span>
+                                                        </div>
+                                                        <span class="ProfileTweet-actionCount">
+                                                            <span class="ProfileTweet-actionCountForPresentation" aria-hidden="true">
+                                                                7
+                                                            </span>
+                                                        </span>
+                                                    </button>
+                                                </div>
+                                            ) ?
+                                            (
+                                                <span class="ProfileTweet-action--reply u-hiddenVisually">
+                                                    <span class="ProfileTweet-actionCount" aria-hidden="true" data-tweet-stat-count="0">
+                                                        <span class="ProfileTweet-actionCountForAria" id="profile-tweet-action-reply-count-aria-1122106909140639744">
+                                                            0 replies
+                                                        </span>
+                                                    </span>
+                                                </span>
+                                            ) ?
+                                            (
+                                                <span class="ProfileTweet-action--retweet u-hiddenVisually">
+                                                    <span class="ProfileTweet-actionCount" data-tweet-stat-count="3">
+                                                        <span class="ProfileTweet-actionCountForAria" id="profile-tweet-action-retweet-count-aria-1122106909140639744" data-aria-label-part="">
+                                                            3 retweets
+                                                        </span>
+                                                    </span>
+                                                </span>
+                                            ) ?
+                                            (
+                                                <span class="ProfileTweet-action--favorite u-hiddenVisually">
+                                                    <span class="ProfileTweet-actionCount" data-tweet-stat-count="7">
+                                                        <span class="ProfileTweet-actionCountForAria" id="profile-tweet-action-favorite-count-aria-1122106909140639744" data-aria-label-part="">
+                                                            7 likes
+                                                        </span>
+                                                    </span>
+                                                </span>
+                                            ) ?
+                                            (
+                                                <div class="AdaptiveMedia-container">
+                                                    <div class="AdaptiveMedia-video">
+                                                        <div class="AdaptiveMedia-videoContainer">
+                                                            <div class="PlayableMedia PlayableMedia--video watched playable-media-loaded">
+                                                                <div class="PlayableMedia-container">
+                                                                    <div class="PlayableMedia-player
+
+        " data-playable-media-url="" data-use-react-player="" data-use-b-version-of-react-player="" data-use-player-precache="" data-border-top-left-radius="" data-border-top-right-radius="" data-border-bottom-left-radius="" data-border-bottom-right-radius="" style="padding-bottom: 100.0%; background-image:url('https://pbs.twimg.com/ext_tw_video_thumb/1062805155115139072/pu/img/ZJ4Is0fLVc0MSzE0.jpg')">
+                                                                        <div class="PlayableMedia-reactWrapper">
+                                                                            <div style="cursor: pointer; height: 100%; width: 100%; position: relative; color: rgba(255, 255, 255, 0.85); font-size: 13px; font-weight: 400; font-family: &quot;helvetica neue&quot;, arial; line-height: normal; transform: translateZ(0px);">
+                                                                                <div role="button" style="position: absolute; height: 100%; width: 100%;" tabindex="0">
+                                                                                    <div style="position: relative; width: 100%; height: 100%; background-color: transparent; overflow: hidden;">
+                                                                                        <video preload="none" playsinline="" style="width: 100%; height: 100%; position: absolute; background-color: black; top: 0%; left: 0%; transform: rotate(0deg) scale(1.005);" poster="https://pbs.twimg.com/ext_tw_video_thumb/1062805155115139072/pu/img/ZJ4Is0fLVc0MSzE0.jpg" src="blob:https://twitter.com/9bd9e06c-c84c-491e-8658-feaaa37d7686"/>
+                                                                                    </div>
+                                                                                </div>
+                                                                                <div>
+                                                                                    <div/>
+                                                                                    <div>
+                                                                                        <span style="opacity: 1; transition: opacity 0.15s ease-in-out 0s;">
+                                                                                            <div data-testid="controlBar" style="background: rgba(0, 0, 0, 0) linear-gradient(rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.65)) repeat scroll 0% 0%; bottom: 0px; cursor: auto; height: 65px; padding-bottom: 5px; position: absolute; width: 100%;">
+                                                                                                <span>
+                                                                                                    <div class="scrubber" style="touch-action: none; cursor: pointer; direction: ltr; height: 30px; margin: 0px 15px -4px; position: relative;">
+                                                                                                        <div class="scrubBar" style="height: 3px; width: 100%; position: relative; top: 16px; background-color: rgba(255, 255, 255, 0.3); border-radius: 5px;"/>
+                                                                                                        <div class="playedBar" style="height: 3px; width: 36.3636%; position: absolute; top: 16px; background-color: rgb(255, 255, 255); border-radius: 5px;"/>
+                                                                                                        <div class="scrubHandle" style="background-color: rgb(255, 255, 255); height: 17px; width: 17px; border-radius: 19px; top: 9px; margin-left: -9px; position: absolute; left: 36.3636%; box-shadow: rgba(0, 0, 0, 0.5) 0px 0px 3px; transform: scale(0.3); opacity: 0; transition: transform 125ms cubic-bezier(0.15, 0.75, 0.5, 0.95) 0s;"/>
+                                                                                                    </div>
+                                                                                                </span>
+                                                                                                <div style="bottom: 0px; display: flex; line-height: 43px; margin: 0px 6px; position: absolute; width: calc(100% - 12px);">
+                                                                                                    <div style="display: flex; align-items: center; flex: 1 1 0%; overflow: hidden;">
+                                                                                                        <span style="flex-shrink: 0;">
+                                                                                                            <span>
+                                                                                                                <button data-testid="pause" style="color: rgba(255, 255, 255, 0.85); background-color: transparent; box-sizing: content-box; border-width: 0px; outline-style: none; font-size: 20px; cursor: pointer; padding: 2px 6px 6px; box-shadow: none; font-family: &quot;helvetica neue&quot;, arial; line-height: normal; vertical-align: middle; height: 1.25em; width: 1.25em;">
+                                                                                                                    <svg viewbox="0 0 24 24" class="rn-4qtqp9 rn-yyyyoo rn-1xvli5t rn-dnmrzs rn-bnwqim rn-lrvibr" style="vertical-align: middle; width: 1.25em;">
+                                                                                                                        <g>
+                                                                                                                            <path d="M10 20.5A1.5 1.5 0 0 1 8.5 22h-2A1.5 1.5 0 0 1 5 20.5v-17A1.5 1.5 0 0 1 6.5 2h2A1.5 1.5 0 0 1 10 3.5v17zm9 0a1.5 1.5 0 0 1-1.5 1.5h-2a1.5 1.5 0 0 1-1.5-1.5v-17A1.5 1.5 0 0 1 15.5 2h2A1.5 1.5 0 0 1 19 3.5v17z"/>
+                                                                                                                        </g>
+                                                                                                                    </svg>
+                                                                                                                </button>
+                                                                                                            </span>
+                                                                                                        </span>
+                                                                                                        <div class="rn-1oszu61 rn-1efd50x rn-14skgim rn-rull8r rn-mm0ijv rn-13yce4e rn-fnigne rn-ndvcnb rn-gxnn5r rn-deolkf rn-6koalj rn-1qe8dj5 rn-1mlwlqe rn-eqz5dr rn-1mnahxq rn-61z16t rn-p1pxzi rn-1n0xq6e rn-ifefl9 rn-bcqeeo rn-wk8lta rn-9aemit rn-1mdbw0j rn-gy4na3 rn-bnwqim rn-1lgpqti">
+                                                                                                            <div data-testid="viewCount" dir="auto" class="rn-13yce4e rn-fnigne rn-ndvcnb rn-gxnn5r rn-deolkf rn-homxoj rn-1471scf rn-14xgk7a rn-1b43r93 rn-o11vmf rn-ebii48 rn-gul640 rn-t9a87b rn-1mnahxq rn-61z16t rn-p1pxzi rn-11wrixw rn-wk8lta rn-9aemit rn-1mdbw0j rn-gy4na3 rn-bauka4 rn-lrvibr rn-q42fyq rn-qvutc0">
+                                                                                                                <span>
+                                                                                                                    122K views
+                                                                                                                </span>
+                                                                                                            </div>
+                                                                                                        </div>
+                                                                                                    </div>
+                                                                                                    <span data-testid="timePlayed" style="color: rgba(255, 255, 255, 0.85); cursor: default; font-size: 13px; font-weight: 400; font-family: &quot;helvetica neue&quot;, arial; flex-shrink: 0; margin-right: 15px;">
+                                                                                                        0:04 / 0:11
+                                                                                                    </span>
+                                                                                                    <span class="volume-control" style="flex-shrink: 0; position: relative;">
+                                                                                                        <span>
+                                                                                                            <button data-testid="unmute" style="color: rgba(255, 255, 255, 0.85); background-color: transparent; box-sizing: content-box; border-width: 0px; outline-style: none; font-size: 20px; cursor: pointer; padding: 2px 6px 6px; box-shadow: none; font-family: &quot;helvetica neue&quot;, arial; line-height: normal; vertical-align: middle;">
+                                                                                                                <svg viewbox="0 0 24 24" class="rn-4qtqp9 rn-yyyyoo rn-1xvli5t rn-dnmrzs rn-bnwqim rn-lrvibr" style="vertical-align: middle; width: 1.25em;">
+                                                                                                                    <g>
+                                                                                                                        <path d="M12.576 1.325a.741.741 0 0 0-.792.087L4.74 7H2.25C1.01 7 0 8.01 0 9.25v5.5C0 15.99 1.01 17 2.25 17h2.49l7.045 5.588A.75.75 0 0 0 13.001 22V2a.75.75 0 0 0-.424-.675zM1.5 14.75v-5.5c0-.413.337-.75.75-.75h2v7h-2a.752.752 0 0 1-.75-.75zm10 5.698l-5.75-4.56V8.11l5.75-4.56v16.896zM20.654 12l3.032-3.032a.749.749 0 1 0-1.06-1.06l-3.033 3.03-3.032-3.03a.749.749 0 1 0-1.06 1.06L18.533 12 15.5 15.032a.75.75 0 0 0 .53 1.28c.19 0 .385-.072.53-.22l3.033-3.03 3.032 3.03c.146.147.338.22.53.22s.384-.072.53-.22a.749.749 0 0 0 0-1.06L20.655 12z"/>
+                                                                                                                    </g>
+                                                                                                                </svg>
+                                                                                                            </button>
+                                                                                                        </span>
+                                                                                                    </span>
+                                                                                                    <span style="flex-shrink: 0;">
+                                                                                                        <span>
+                                                                                                            <button data-testid="fullscreen" style="color: rgba(255, 255, 255, 0.85); background-color: transparent; box-sizing: content-box; border-width: 0px; outline-style: none; font-size: 20px; cursor: pointer; padding: 2px 6px 6px; box-shadow: none; font-family: &quot;helvetica neue&quot;, arial; line-height: normal; vertical-align: middle; flex-shrink: 0; height: 1.25em; width: 1.25em;">
+                                                                                                                <svg viewbox="0 0 24 24" class="rn-4qtqp9 rn-yyyyoo rn-1xvli5t rn-dnmrzs rn-bnwqim rn-lrvibr" style="vertical-align: middle; width: 1.25em;">
+                                                                                                                    <g>
+                                                                                                                        <path d="M3.5 19.44v-4a.75.75 0 0 0-1.5 0v5.81c0 .414.336.75.75.75h5.81a.75.75 0 0 0 0-1.5h-4l6.577-6.576a.748.748 0 0 0 0-1.06.749.749 0 0 0-1.06 0L3.5 19.44zM14.69 2.75c0 .414.336.75.75.75h4l-6.577 6.576a.749.749 0 1 0 1.06 1.06L20.5 4.562v4a.75.75 0 0 0 1.5 0V2.75a.75.75 0 0 0-.75-.75h-5.81a.75.75 0 0 0-.75.75z"/>
+                                                                                                                    </g>
+                                                                                                                </svg>
+                                                                                                            </button>
+                                                                                                        </span>
+                                                                                                    </span>
+                                                                                                </div>
+                                                                                            </div>
+                                                                                        </span>
+                                                                                        <div class="rn-1oszu61 rn-1efd50x rn-14skgim rn-rull8r rn-mm0ijv rn-13yce4e rn-fnigne rn-ndvcnb rn-gxnn5r rn-1nlw0im rn-deolkf rn-6koalj rn-1qe8dj5 rn-1mlwlqe rn-eqz5dr rn-1r74h94 rn-1mnahxq rn-61z16t rn-p1pxzi rn-11wrixw rn-ifefl9 rn-bcqeeo rn-wk8lta rn-9aemit rn-1mdbw0j rn-gy4na3 rn-u8s1d rn-1lgpqti">
+                                                                                            <span style="opacity: 0; transition: opacity 0.15s ease-in-out 0s;"/>
+                                                                                        </div>
+                                                                                        <div class="rn-1oszu61 rn-1efd50x rn-14skgim rn-rull8r rn-mm0ijv rn-13yce4e rn-fnigne rn-ndvcnb rn-gxnn5r rn-1nlw0im rn-deolkf rn-6koalj rn-1qe8dj5 rn-1mlwlqe rn-eqz5dr rn-1mnahxq rn-61z16t rn-p1pxzi rn-11wrixw rn-ifefl9 rn-bcqeeo rn-wk8lta rn-9aemit rn-1mdbw0j rn-gy4na3 rn-u8s1d rn-3mc0re rn-1lgpqti">
+                                                                                            <span style="opacity: 0; transition: opacity 0.15s ease-in-out 0s;"/>
+                                                                                        </div>
+                                                                                    </div>
+                                                                                </div>
+                                                                            </div>
+                                                                        </div>
+                                                                    </div>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            ) ?
+                                        </div>
+                                    ) ?
+                                    (
+                                        <div class="ProfileTweet-actionList js-actions" role="group" aria-label="Tweet actions">
+                                            <div class="ProfileTweet-action ProfileTweet-action--reply">
+                                                <button class="ProfileTweet-actionButton js-actionButton js-actionReply" data-modal="ProfileTweet-reply" type="button" aria-describedby="profile-tweet-action-reply-count-aria-1062805220902817793">
+                                                    <div class="IconContainer js-tooltip" title="Reply">
+                                                        <span class="Icon Icon--medium Icon--reply"/>
+                                                        <span class="u-hiddenVisually">
+                                                            Reply
+                                                        </span>
+                                                    </div>
+                                                    <span class="ProfileTweet-actionCount ">
+                                                        <span class="ProfileTweet-actionCountForPresentation" aria-hidden="true">
+                                                            10
+                                                        </span>
+                                                    </span>
+                                                </button>
+                                            </div>
+                                            <div class="ProfileTweet-action ProfileTweet-action--retweet js-toggleState js-toggleRt">
+                                                <button class="ProfileTweet-actionButton  js-actionButton js-actionRetweet" data-modal="ProfileTweet-retweet" type="button" aria-describedby="profile-tweet-action-retweet-count-aria-1062805220902817793">
+                                                    <div class="IconContainer js-tooltip" title="Retweet">
+                                                        <span class="Icon Icon--medium Icon--retweet"/>
+                                                        <span class="u-hiddenVisually">
+                                                            Retweet
+                                                        </span>
+                                                    </div>
+                                                    <span class="ProfileTweet-actionCount">
+                                                        <span class="ProfileTweet-actionCountForPresentation" aria-hidden="true">
+                                                            28
+                                                        </span>
+                                                    </span>
+                                                </button>
+                                                <button class="ProfileTweet-actionButtonUndo js-actionButton js-actionRetweet" data-modal="ProfileTweet-retweet" type="button">
+                                                    <div class="IconContainer js-tooltip" title="Undo retweet">
+                                                        <span class="Icon Icon--medium Icon--retweet"/>
+                                                        <span class="u-hiddenVisually">
+                                                            Retweeted
+                                                        </span>
+                                                    </div>
+                                                    <span class="ProfileTweet-actionCount">
+                                                        <span class="ProfileTweet-actionCountForPresentation" aria-hidden="true">
+                                                            28
+                                                        </span>
+                                                    </span>
+                                                </button>
+                                            </div>
+                                            <div class="ProfileTweet-action ProfileTweet-action--favorite js-toggleState">
+                                                <button class="ProfileTweet-actionButton js-actionButton js-actionFavorite" type="button" aria-describedby="profile-tweet-action-favorite-count-aria-1062805220902817793">
+                                                    <div class="IconContainer js-tooltip" title="Like">
+                                                        <span role="presentation" class="Icon Icon--heart Icon--medium"/>
+                                                        <div class="HeartAnimation"/>
+                                                        <span class="u-hiddenVisually">
+                                                            Like
+                                                        </span>
+                                                    </div>
+                                                    <span class="ProfileTweet-actionCount">
+                                                        <span class="ProfileTweet-actionCountForPresentation" aria-hidden="true">
+                                                            275
+                                                        </span>
+                                                    </span>
+                                                </button>
+                                                <button class="ProfileTweet-actionButtonUndo ProfileTweet-action--unfavorite u-linkClean js-actionButton js-actionFavorite" type="button">
+                                                    <div class="IconContainer js-tooltip" title="Undo like">
+                                                        <span role="presentation" class="Icon Icon--heart Icon--medium"/>
+                                                        <div class="HeartAnimation"/>
+                                                        <span class="u-hiddenVisually">
+                                                            Liked
+                                                        </span>
+                                                    </div>
+                                                    <span class="ProfileTweet-actionCount">
+                                                        <span class="ProfileTweet-actionCountForPresentation" aria-hidden="true">
+                                                            275
+                                                        </span>
+                                                    </span>
+                                                </button>
+                                            </div>
+                                        </div>
+                                    ) ?
+                                    (
+                                        <span class="ProfileTweet-action--reply u-hiddenVisually">
+                                            <span class="ProfileTweet-actionCount" data-tweet-stat-count="#text"(
+ aria-hidden="true") ?
+>
+                                                <span class="ProfileTweet-actionCountForAria" id="#text"(
+ data-aria-label-part="") ?
+>
+                                                    #text
+                                                </span>
+                                            </span>
+                                        </span>
+                                    ) ?
+                                    (
+                                        <span class="ProfileTweet-action--retweet u-hiddenVisually">
+                                            <span class="ProfileTweet-actionCount" data-tweet-stat-count="#text"(
+ aria-hidden="true") ?
+>
+                                                <span class="ProfileTweet-actionCountForAria" id="#text"(
+ data-aria-label-part="") ?
+>
+                                                    #text
+                                                </span>
+                                            </span>
+                                        </span>
+                                    ) ?
+                                    (
+                                        <span class="ProfileTweet-action--favorite u-hiddenVisually">
+                                            <span class="ProfileTweet-actionCount" data-tweet-stat-count="#text">
+                                                <span class="ProfileTweet-actionCountForAria" id="#text" data-aria-label-part="">
+                                                    #text
+                                                </span>
+                                            </span>
+                                        </span>
+                                    ) ?
+                                </div>
+                            ) ?
+                            (
+                                <div class="ProfileTweet-actionList js-actions" role="group" aria-label="Tweet actions">
+                                    <div class="ProfileTweet-action ProfileTweet-action--reply">
+                                        <button class="ProfileTweet-actionButton js-actionButton js-actionReply" data-modal="ProfileTweet-reply" type="button" aria-describedby="#text">
+                                            <div class="IconContainer js-tooltip" title="Reply">
+                                                <span class="Icon Icon--medium Icon--reply"/>
+                                                <span class="u-hiddenVisually">
+                                                    Reply
+                                                </span>
+                                            </div>
+                                            <span class="#text">
+                                                <span class="ProfileTweet-actionCountForPresentation" aria-hidden="true">
+                                                    (
+                                                        2
+                                                    ) ?
+                                                </span>
+                                            </span>
+                                        </button>
+                                    </div>
+                                    <div class="ProfileTweet-action ProfileTweet-action--retweet js-toggleState js-toggleRt">
+                                        <button class="ProfileTweet-actionButton  js-actionButton js-actionRetweet" data-modal="ProfileTweet-retweet" type="button" aria-describedby="#text">
+                                            <div class="IconContainer js-tooltip" title="Retweet">
+                                                <span class="Icon Icon--medium Icon--retweet"/>
+                                                <span class="u-hiddenVisually">
+                                                    Retweet
+                                                </span>
+                                            </div>
+                                            <span class="#text">
+                                                <span class="ProfileTweet-actionCountForPresentation" aria-hidden="true">
+                                                    (
+                                                        #text
+                                                    ) ?
+                                                </span>
+                                            </span>
+                                        </button>
+                                        <button class="ProfileTweet-actionButtonUndo js-actionButton js-actionRetweet" data-modal="ProfileTweet-retweet" type="button">
+                                            <div class="IconContainer js-tooltip" title="Undo retweet">
+                                                <span class="Icon Icon--medium Icon--retweet"/>
+                                                <span class="u-hiddenVisually">
+                                                    Retweeted
+                                                </span>
+                                            </div>
+                                            <span class="#text">
+                                                <span class="ProfileTweet-actionCountForPresentation" aria-hidden="true">
+                                                    (
+                                                        #text
+                                                    ) ?
+                                                </span>
+                                            </span>
+                                        </button>
+                                    </div>
+                                    <div class="ProfileTweet-action ProfileTweet-action--favorite js-toggleState">
+                                        <button class="ProfileTweet-actionButton js-actionButton js-actionFavorite" type="button" aria-describedby="#text">
+                                            <div class="IconContainer js-tooltip"(
+ data-original-title="Like") ?
+(
+ title="Like") ?
+>
+                                                <span role="presentation" class="Icon Icon--heart Icon--medium"/>
+                                                <div class="HeartAnimation"/>
+                                                <span class="u-hiddenVisually">
+                                                    Like
+                                                </span>
+                                            </div>
+                                            <span class="ProfileTweet-actionCount">
+                                                <span class="ProfileTweet-actionCountForPresentation" aria-hidden="true">
+                                                    #text
+                                                </span>
+                                            </span>
+                                        </button>
+                                        <button class="ProfileTweet-actionButtonUndo ProfileTweet-action--unfavorite u-linkClean js-actionButton js-actionFavorite" type="button">
+                                            <div class="IconContainer js-tooltip" title="Undo like">
+                                                <span role="presentation" class="Icon Icon--heart Icon--medium"/>
+                                                <div class="HeartAnimation"/>
+                                                <span class="u-hiddenVisually">
+                                                    Liked
+                                                </span>
+                                            </div>
+                                            <span class="ProfileTweet-actionCount">
+                                                <span class="ProfileTweet-actionCountForPresentation" aria-hidden="true">
+                                                    #text
+                                                </span>
+                                            </span>
+                                        </button>
+                                    </div>
+                                </div>
+                            ) ?
+                        </div>
+                    ) +
+                </div>
+            </div>
+            <div class="dismiss-module">
+                <div class="dismissed-module">
+                    <div class="feedback-actions">
+                        <div class="feedback-action" data-feedback-type="DontLike" data-feedback-url="">
+                            <div class="action-confirmation dismiss-module-item">
+                                Thanks. Twitter will use this to make your timeline better.
+                                <span class="undo-action">
+                                    Undo
+                                </span>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="child-feedback-confirmation">
+                        <div class="child-confirmation-item">
+                            <span class="child-confirmation-text"/>
+                            <span class="undo-child-feedback-action">
+                                Undo
+                            </span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </li>
+    ) +
+</ol>
+
