@@ -2,7 +2,7 @@
   "profiles": {
     "WebParser": {
       "commandName": "Project",
-      "commandLineArgs": "\"../../../sites/twitter.com/Dad Jokes (@Dadsaysjokes)   Twitter.htm\" xpath"
+      "commandLineArgs": "\"../../../sites/overstock.com/jewelry01preprocessed.html\" roadrunner \"../../../sites/overstock.com/jewelry02preprocessed.html\""
     }
   }
 }

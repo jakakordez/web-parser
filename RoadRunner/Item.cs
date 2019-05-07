@@ -12,6 +12,7 @@ namespace WebParser.RoadRunner
         string endTag;
         HtmlNode node;
         // TODO: change to set of elements
+        List<Element> attributes;
         //string attributes;
 
         public Item(Element parent, HtmlNode node) : base(parent)
@@ -54,6 +55,9 @@ namespace WebParser.RoadRunner
             int ie = 0;
             for (int i = 0; i < children.Count; i++)
             {
+                if (ie >= e.children.Count)
+                    return false;
+
                 if (children[i] is Optional)
                 {
                     if (children[i].EqualRecursive(e.children[ie]))
