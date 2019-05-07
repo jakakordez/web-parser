@@ -12,12 +12,19 @@ namespace WebParser.RoadRunner
         string endTag;
         HtmlNode node;
         // TODO: change to set of elements
-        List<Element> attributes;
+        Dictionary<string, Element> attributes;
         //string attributes;
 
         public Item(Element parent, HtmlNode node) : base(parent)
         {
             this.node = node;
+            attributes = new Dictionary<string, Element>();
+
+            for (int i = 0; i < node.Attributes.Count; i++)
+            {
+                attributes.Add(node.Attributes[i].Name, new Attribute(this, node.Attributes[i].Name, node.Attributes[i].Value));
+            }
+
             var reg = new Regex("(<[^<]*>)").Matches(node.OuterHtml);
             tag = reg[0].Groups[1].Value.Trim();
             if (node.ChildNodes.Count > 0)
@@ -80,6 +87,40 @@ namespace WebParser.RoadRunner
             return true;
         }
 
+        public void Generalize(Element e)
+        {
+            if (!Equal(e))
+                throw new Exception("[Attribute] error in Generalize: element is not the same as this");
+
+            Item item = e as Item;
+            foreach (KeyValuePair<string, Element> entry in attributes)
+            {
+                if (entry.Value is Optional)
+                    continue;
+                Attribute current = entry.Value as Attribute;
+                Element tmp;
+                if (item.attributes.TryGetValue(entry.Key, out tmp))
+                {
+                    current.Generalize(tmp);
+                }
+                else
+                {
+                    Optional optional = new Optional(this, current);
+                    attributes.Add(entry.Key, optional);
+                }
+            }
+            foreach (KeyValuePair<string, Element> entry in item.attributes)
+            {
+                Element current = entry.Value as Element;
+                if (!attributes.ContainsKey(entry.Key))
+                {
+                    if (!(current is Optional))
+                        current = new Optional(this, current);
+                    attributes.Add(entry.Key, current);
+                }
+            }
+        }
+
         public override bool Equal(Element e)
         {
             Item el = e as Item;
@@ -91,8 +132,16 @@ namespace WebParser.RoadRunner
             
             StringBuilder builder = new StringBuilder();
             builder.Append(AppendDepth(depth));
-            builder.Append(tag);
-            builder.Append("\n");
+            //builder.Append(tag);
+            builder.Append("<");
+            builder.Append(node.Name);
+            foreach (KeyValuePair<string, Element> entry in attributes)
+            {
+                builder.Append(entry.Value.ToString(0));
+            }
+            if (endTag == null)
+                builder.Append("/");
+            builder.Append(">\n");
             for (int i = 0; i < children.Count; i++)
             {
                 builder.Append(children[i].ToString(depth + 1));

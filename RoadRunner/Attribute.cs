@@ -4,41 +4,44 @@ using System.Text;
 
 namespace WebParser.RoadRunner
 {
-    class Text : Element
+    class Attribute : Element
     {
-        string text;
+        string name;
+        string value;
         bool string_mismatch;
 
-        public Text(Element parent, string text) : base(parent)
+        public Attribute(Element parent, string name, string value) : base(parent)
         {
-            this.text = text;
+            this.name = name;
+            this.value = value;
             string_mismatch = false;
         }
 
         private void StringMismatch()
         {
             string_mismatch = true;
-            text = "#text";
+            value = "#text";
         }
 
         public void Generalize(Element e)
         {
             if (!Equal(e))
-                throw new Exception("[Text] error in Generalize: element is not the same as this");
+                throw new Exception("[Attribute] error in Generalize: element is not the same as this");
 
-            Text t = e as Text;
-            if (this.text != t.text)
+            Attribute t = e as Attribute;
+            if (this.value != t.value)
                 StringMismatch();
         }
 
         public override bool Equal(Element e)
         {
-            return e is Text;
+            Attribute att =  e as Attribute;
+            return att != null && name == att.name;
         }
 
         public override string ToString(int depth)
         {
-            return AppendDepth(depth) + text + "\n";
+            return  " " + name + "=\"" + value + "\"";
         }
 
         public override bool EqualRecursive(Element e)

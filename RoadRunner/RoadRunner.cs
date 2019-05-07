@@ -78,6 +78,7 @@ namespace WebParser.RoadRunner
                         }
                         else if (baseRoot.children[current1].GetType() == typeof(Item))
                         {
+                            ((Item)baseRoot.children[current1]).Generalize(root2.children[current2]);
                             Generalize(baseRoot.children[current1], root2.children[current2]);
                         }
                         else if (baseRoot.children[current1].GetType() == typeof(Iterator))
