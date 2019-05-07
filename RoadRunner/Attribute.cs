@@ -17,7 +17,7 @@ namespace WebParser.RoadRunner
             string_mismatch = false;
         }
 
-        private void StringMismatch()
+        public void StringMismatch()
         {
             string_mismatch = true;
             value = "#text";
@@ -28,6 +28,8 @@ namespace WebParser.RoadRunner
             if (!Equal(e))
                 throw new Exception("[Attribute] error in Generalize: element is not the same as this");
 
+            if (e is Optional)
+                e = e.children[0];
             Attribute t = e as Attribute;
             if (this.value != t.value)
                 StringMismatch();
@@ -35,6 +37,8 @@ namespace WebParser.RoadRunner
 
         public override bool Equal(Element e)
         {
+            if (e is Optional)
+                e = e.children[0];
             Attribute att =  e as Attribute;
             return att != null && name == att.name;
         }

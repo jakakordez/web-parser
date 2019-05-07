@@ -1,6 +1,7 @@
 ﻿using HtmlAgilityPack;
 using System;
 using System.Collections.Generic;
+using System.Linq;
 using System.Text;
 using System.Text.RegularExpressions;
 
@@ -22,7 +23,9 @@ namespace WebParser.RoadRunner
 
             for (int i = 0; i < node.Attributes.Count; i++)
             {
-                attributes.Add(node.Attributes[i].Name, new Attribute(this, node.Attributes[i].Name, node.Attributes[i].Value));
+                Attribute tmp = new Attribute(this, node.Attributes[i].Name, node.Attributes[i].Value);
+                if (!attributes.TryAdd(node.Attributes[i].Name, tmp))
+                    tmp.StringMismatch();
             }
 
             var reg = new Regex("(<[^<]*>)").Matches(node.OuterHtml);
@@ -92,21 +95,25 @@ namespace WebParser.RoadRunner
             if (!Equal(e))
                 throw new Exception("[Attribute] error in Generalize: element is not the same as this");
 
+            while (!(e is Text) && !(e is Item))
+                e = e.children[0];
+
             Item item = e as Item;
-            foreach (KeyValuePair<string, Element> entry in attributes)
+            foreach (string key in attributes.Keys.ToList())
             {
-                if (entry.Value is Optional)
+                Element value = attributes[key];
+                if (value is Optional)
                     continue;
-                Attribute current = entry.Value as Attribute;
+                Attribute current = value as Attribute;
                 Element tmp;
-                if (item.attributes.TryGetValue(entry.Key, out tmp))
+                if (item.attributes.TryGetValue(key, out tmp))
                 {
                     current.Generalize(tmp);
                 }
                 else
                 {
                     Optional optional = new Optional(this, current);
-                    attributes.Add(entry.Key, optional);
+                    attributes[key] = optional;
                 }
             }
             foreach (KeyValuePair<string, Element> entry in item.attributes)
@@ -123,6 +130,8 @@ namespace WebParser.RoadRunner
 
         public override bool Equal(Element e)
         {
+            while (!(e is Text) && !(e is Item))
+                e = e.children[0];
             Item el = e as Item;
             return el != null && el.node.Name == node.Name;
         }

@@ -35,6 +35,8 @@ namespace WebParser.RoadRunner
 
         public override string ToString(int depth)
         {
+            if (depth == 0)
+                return " (" + children[0].ToString(depth)  + ") ? ";
             return AppendDepth(depth) + "(\n" + children[0].ToString(depth+1) + AppendDepth(depth) + ") ?\n";
         }
     }

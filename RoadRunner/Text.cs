@@ -33,6 +33,8 @@ namespace WebParser.RoadRunner
 
         public override bool Equal(Element e)
         {
+            while (!(e is Text) && !(e is Item))
+                e = e.children[0];
             return e is Text;
         }
 

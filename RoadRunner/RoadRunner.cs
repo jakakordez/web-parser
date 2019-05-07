@@ -42,11 +42,11 @@ namespace WebParser.RoadRunner
                             Generalize(baseRoot.children[current1 - 1], root2.children[current2]);
                             Iterator iterator = new Iterator(baseRoot, baseRoot.children[current1 - 1]);
                             baseRoot.children[current1-1] = iterator;
-                            current1 --;
-                            while (current1 >= 0 && baseRoot.children[current1].Equal(baseRoot.children[current1-1]))
+                            //current1 --;
+                            while (current1 > 1 && baseRoot.children[current1-1].Equal(baseRoot.children[current1-2]))
                             {
-                                Generalize(baseRoot.children[current1], baseRoot.children[current1-1]);
-                                baseRoot.children.RemoveAt(current1-1);
+                                Generalize(baseRoot.children[current1-1], baseRoot.children[current1-2]);
+                                baseRoot.children.RemoveAt(current1-2);
                                 current1 --;
                             }
                         }
@@ -56,9 +56,8 @@ namespace WebParser.RoadRunner
                             baseRoot.children.Insert(current1, optional);
                             // current1 se poveča samo zaradi tega, ker insertamo nov element v baseRoot
                             current1++;
-                            
-                            current2 ++;
                         }
+                        current2++;
                     }
                     if (current2 >= root2.children.Count)
                     {
@@ -81,14 +80,14 @@ namespace WebParser.RoadRunner
                             ((Item)baseRoot.children[current1]).Generalize(root2.children[current2]);
                             Generalize(baseRoot.children[current1], root2.children[current2]);
                         }
-                        else if (baseRoot.children[current1].GetType() == typeof(Iterator))
-                            current1 --;
+                        //else if (baseRoot.children[current1].GetType() == typeof(Iterator))
+                        //    current1 --;
                         current2 ++;
                     }
                 }
                 while (current2 < root2.children.Count)
                 {
-                    if (!(baseRoot.children[baseRoot.children.Count-1] is Optional) && baseRoot.children[baseRoot.children.Count - 1].Equal(root2.children[current2]))
+                    if (baseRoot.children.Count > 0 && !(baseRoot.children[baseRoot.children.Count-1] is Optional) && baseRoot.children[baseRoot.children.Count - 1].Equal(root2.children[current2]))
                     {
                         if (!(baseRoot.children[baseRoot.children.Count - 1] is Iterator))
                         {
