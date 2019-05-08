@@ -1,8 +1,8 @@
-{
+﻿{
   "profiles": {
     "WebParser": {
       "commandName": "Project",
-      "commandLineArgs": "\"../../../sites/overstock.com/jewelry01preprocessed.html\" roadrunner \"../../../sites/overstock.com/jewelry02preprocessed.html\""
+      "commandLineArgs": "\"../../../sites/twitter.com/Kratke Zgodbe (@kratkazgodba)   Twitter.htm\" regex \"../../../sites/overstock.com/jewelry02preprocessed.html\""
     }
   }
 }
